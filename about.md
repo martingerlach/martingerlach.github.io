@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 redirect_from:
   - /index.html
 ---
- <img src="{{ site.baseurl }}/images/portrait.png" width="25%"  align="top" margin="auto"> 
+ <!-- <img src="{{ site.baseurl }}/images/portrait.png" width="25%"  align="right">  -->
+ <img src="{{ site.baseurl }}/images/portrait.png" style="width:25%; float: right; padding: 0px 0px 20px 20px"> 
 
 
  I am a Postdoctoral Fellow at Northwestern University working in the group of [Luis Amaral](https://amaral.northwestern.edu/). Before that I got a PhD at the [Max Planck Insitute for the Physics of Complex Systems](https://www.pks.mpg.de/) working with [Eduardo Altmann](http://www.maths.usyd.edu.au/u/ega/). 
