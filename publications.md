@@ -55,7 +55,7 @@ permalink: /publications/
        + [F1000-prime](https://f1000.com/prime/734027260)
 
    Comments:  
-       + [Comment: *Far away from the lamppost*](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000067), PLOS Biology (2019)  
+       + [*Far away from the lamppost*](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000067), PLOS Biology (2019)  
        + [*Reply to "Far away from the lamppost"*](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000075), PLOS Biology (2019)
 
 0. Martin Gerlach, Beatrice Farb, William Revelle, Luis A.N. Amaral  
@@ -71,6 +71,10 @@ permalink: /publications/
        + [Time Magazine](http://time.com/5398396/personality-types/)  
        + [Washington Post](https://www.washingtonpost.com/science/2018/09/17/scientists-identify-four-personality-types/)  
        + [Süddeutsche Zeitung (German)](https://www.sueddeutsche.de/wissen/psychologie-persoenlichkeitstypen-1.4133009)
+
+   Comments:  
+       + [*Distribution of personality: Types or skewness?*](https://psyarxiv.com/wua9j), PsyArXiv  preprint (2019)  
+       + [*Reply to Katahira et al. “Distribution of personality: Types or skewness?”*](https://psyarxiv.com/rvpfs/), PsyArXiv preprint (2019)
 
 0. Martin Gerlach, Tiago P. Peixoto, Eduardo G. Altmann  
    *A network approach to topic models*  
