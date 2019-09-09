@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 
 ---
-**2019-09-09**: Starting a new position in the [Reseach Team](https://research.wikimedia.org/index.html) of Wikimedia Foundation.
+* **2019-09-09**: Starting a new position in the [Reseach Team](https://research.wikimedia.org/index.html) of Wikimedia Foundation.
 
 * **2019-04-26**: New paper in *Physical Review Letters*. [Testing Statistical Laws in Complex Systems](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.168301)  with Eduardo Altmann
 
