@@ -8,7 +8,7 @@ permalink: /publications/
 
 [[Google scholar](http://scholar.google.de/citations?user=FQNob6MAAAAJ&hl=en&oi=sra)]  [[orcid](http://orcid.org/0000-0002-0879-7865)]
 
-#### Papers 
+#### Papers
 
 0. Martin Gerlach, Francesc Font-Clos  
    *A standardized Project Gutenberg corpus for statistical analysis of natural language and quantitative linguistics*  
@@ -19,14 +19,14 @@ permalink: /publications/
    *Testing statistical laws in complex systems*  
    **Physical Review Letters** (2019)  
    [[paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.168301)]
-   [[arxiv](https://arxiv.org/abs/1904.11624)] 
+   [[arxiv](https://arxiv.org/abs/1904.11624)]
    [[data&code](https://doi.org/10.5281/zenodo.2641375)]
 
 0. Julia Poncela-Casasnovas, Martin Gerlach,, Nathan Aguirre, Luis A.N. Amaral  
    *Large scale analysis of micro-level citation patterns reveals nuanced selection criteria*  
    **Nature Human Behaviour** (2019)  
    [[paper](https://www.nature.com/articles/s41562-019-0585-7)]
-   [[data&code](https://github.com/juliettapc/my_In_text_citations)] 
+   [[data&code](https://github.com/juliettapc/my_In_text_citations)]
 
    Media Coverage:  
       +[phys.org](https://phys.org/news/2019-04-successful-papers-cite-young.html)
@@ -35,14 +35,14 @@ permalink: /publications/
    *A new evaluation framework for topic modeling algorithms based on synthetic corpora*  
    **AISTATS (2019)**, Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics  
    [[paper](http://proceedings.mlr.press/v89/shi19a.html)]
-   [[arxiv](https://arxiv.org/abs/1901.09848)] 
+   [[arxiv](https://arxiv.org/abs/1901.09848)]
    [[code](https://github.com/amarallab/synthetic_benchmark_topic_model)]
 
 0. Thomas Stoeger, Martin Gerlach, Richard I. Morimoto, Luis A.N. Amaral  
    *Large-scale investigation of the reasons why potentially important genes are ignored*  
    **PLOS Biology** (2018)  
    [[paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006643)]
-   [[data&code](https://github.com/tstoeger/plos_biology_2018_ignored_genes)] 
+   [[data&code](https://github.com/tstoeger/plos_biology_2018_ignored_genes)]
 
    Media Coverage:  
        + [PLOS Biology Primer](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000034)  by Ian Dunham  
@@ -62,7 +62,7 @@ permalink: /publications/
    *A robust data-driven approach identifies four personality types across four large data sets*  
    **Nature Human Behaviour** (2018)  
    [[paper](https://www.nature.com/articles/s41562-018-0419-z)]
-   [[data&code](https://github.com/amarallab/personality-types)] 
+   [[data&code](https://github.com/amarallab/personality-types)]
 
    Media Coverage:  
        + [Northwestern News (Video)](https://www.mccormick.northwestern.edu/news/articles/2018/09/are-you-average-reserved-self-centered-or-a-role-model.html)  
@@ -73,15 +73,17 @@ permalink: /publications/
        + [Süddeutsche Zeitung (German)](https://www.sueddeutsche.de/wissen/psychologie-persoenlichkeitstypen-1.4133009)
 
    Comments:  
-       + [*Distribution of personality: Types or skewness?*](https://psyarxiv.com/wua9j), PsyArXiv  preprint (2019)  
-       + [*Reply to Katahira et al. “Distribution of personality: Types or skewness?”*](https://psyarxiv.com/rvpfs/), PsyArXiv preprint (2019)
++ [*Four personality types may be neither robust nor exhaustive*](https://www.nature.com/articles/s41562-019-0721-4), Nature Human Behaviour (2019)  
++ [*Reply to: Four personality types may be neither robust nor exhaustive*](https://www.nature.com/articles/s41562-019-0722-3), Nature Human Behaviour (2019)  
++ [*Distribution of personality: Types or skewness?*](https://psyarxiv.com/wua9j), PsyArXiv  preprint (2019)  
++ [*Reply to Katahira et al. “Distribution of personality: Types or skewness?”*](https://psyarxiv.com/rvpfs/), PsyArXiv preprint (2019)
 
 0. Martin Gerlach, Tiago P. Peixoto, Eduardo G. Altmann  
    *A network approach to topic models*  
    **Science Advances** (2018)  
    [[paper](http://advances.sciencemag.org/content/4/7/eaaq1360)]
    [[arxiv](https://arxiv.org/abs/1708.01677)]
-   [[code: TopSBM](https://topsbm.github.io/)] 
+   [[code: TopSBM](https://topsbm.github.io/)]
 
    Media Coverage:  
        + [Northwestern Data Science Initiative](https://datascience.northwestern.edu/2018/10/15/using-network-science-to-analyze-human-language/)  
@@ -91,20 +93,20 @@ permalink: /publications/
    *Using text analysis to quantify the similarity and evolution of scientific disciplines*  
    **Royal Society Open Science** (2018)  
    [[paper](http://rsos.royalsocietypublishing.org/content/5/1/171545)]
-   [[arxiv](https://arxiv.org/abs/1706.08671)] 
+   [[arxiv](https://arxiv.org/abs/1706.08671)]
 
 0. Eduardo G. Altmann, Laercio Dias, Martin Gerlach  
    *Generalized Entropies and the Similarity of Texts*  
    **Journal of Statistical Mechanics** (2017)  
    [[paper](http://iopscience.iop.org/article/10.1088/1742-5468/aa53f5)]
-   [[arxiv](https://arxiv.org/abs/1611.03596)] 
+   [[arxiv](https://arxiv.org/abs/1611.03596)]
 
 0. Jorge C.  Leit&#227;o, Jose M. Miotto, Martin Gerlach, Eduardo G. Altmann  
    *Is this scaling nonlinear?*  
    **Royal Society Open Science** (2016)  
    [[paper](http://rsos.royalsocietypublishing.org/content/3/7/150649)]
-   [[arxiv](http://arxiv.org/abs/1604.02872)] 
-   [[data&code](http://dx.doi.org/10.5281/zenodo.49367)] 
+   [[arxiv](http://arxiv.org/abs/1604.02872)]
+   [[data&code](http://dx.doi.org/10.5281/zenodo.49367)]
 
 0. Martin Gerlach, Francesc Font-Clos, Eduardo G. Altmann  
    *Similarity of symbol frequency distributions with heavy tails*  
@@ -121,7 +123,7 @@ permalink: /publications/
    *Statistical laws in linguistics*  
    In **Creativity and Universality in Language** (Springer, 2016)  
    [[paper](https://link.springer.com/chapter/10.1007/978-3-319-24403-7_2)]
-   [[arxiv](https://arxiv.org/abs/1502.03296)] 
+   [[arxiv](https://arxiv.org/abs/1502.03296)]
 
 0. Martin Gerlach, Eduardo G. Altmann  
    *Scaling laws and fluctuations in the statistics of word frequencies*  
@@ -268,7 +270,7 @@ I have been handling editor for [PNAS](https://www.pnas.org/)
 
 * [Visions in Science 2013](http://www.visions-in-science.org/visions/visions2013/index.html), Dresden, 09/2013
 
-* [Lipari School on Computational Complex Systems: "Dynamic Networks and Social Behavior"](http://lipari.cs.unict.it/LipariSchool/ComplexSystems/), Lipari (Italy), 07/2013 
+* [Lipari School on Computational Complex Systems: "Dynamic Networks and Social Behavior"](http://lipari.cs.unict.it/LipariSchool/ComplexSystems/), Lipari (Italy), 07/2013
 
 * [DPG spring meeting 2013](http://www.dpg-verhandlungen.de/year/2013/conference/regensburg/parts?lang=en), Regensburg, 03/2013  
    [talk]
