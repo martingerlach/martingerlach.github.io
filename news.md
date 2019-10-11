@@ -5,7 +5,7 @@ permalink: /news/
 
 ---
 
-* **2019-09-25/26**: I will be attending [*WikidataCon 2019*](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2019) in Berlin.
+* **2019-10-25/26**: I will be attending [*WikidataCon 2019*](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2019) in Berlin.
 
 * **2019-09-16**: New paper in *Nature Human Behaviour*. [Reply to: Four personality types may be neither robust nor exhaustive](https://www.nature.com/articles/s41562-019-0722-3)  with William Revelle and Luis A. N. Amaral in reponse to [Freundenstein et al.](https://www.nature.com/articles/s41562-019-0721-4).
 
