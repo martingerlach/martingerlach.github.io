@@ -17,7 +17,7 @@ permalink: /publications/
 
 0. Martin Gerlach\*, Hanyu Shi\*, Luis A.N. Amaral (\* equal contribution)  
    *A universal information theoretic approach to the identification of stopwords*  
-   **Nature Machine Intelligence**  
+   **Nature Machine Intelligence** (2019)
    [[paper](https://www.nature.com/articles/s42256-019-0112-6)] [[data&code](https://github.com/amarallab/stopwords)]  
 
    Media Coverage:  
