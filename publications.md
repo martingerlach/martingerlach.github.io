@@ -15,6 +15,12 @@ permalink: /publications/
    **under review**  
    [[arxiv](https://arxiv.org/abs/1812.08092)] [[code](https://github.com/pgcorpus/gutenberg)] [[data](https://doi.org/10.5281/zenodo.2422560)]  
 
+0. Martin Gerlach\*, Hanyu Shi\*, Luis A.N. Amaral  
+   (\* equal contribution) 
+   *A universal information theoretic approach to the identification of stopwords*  
+   **Nature Machine Intelligence**  
+   [[paper](https://www.nature.com/articles/s42256-019-0112-6)] [[data&code](https://github.com/amarallab/stopwords)]  
+
 0. Martin Gerlach, Eduardo G. Altmann  
    *Testing statistical laws in complex systems*  
    **Physical Review Letters** (2019)  
@@ -22,7 +28,7 @@ permalink: /publications/
    [[arxiv](https://arxiv.org/abs/1904.11624)]
    [[data&code](https://doi.org/10.5281/zenodo.2641375)]
 
-0. Julia Poncela-Casasnovas, Martin Gerlach,, Nathan Aguirre, Luis A.N. Amaral  
+0. Julia Poncela-Casasnovas, Martin Gerlach, Nathan Aguirre, Luis A.N. Amaral  
    *Large scale analysis of micro-level citation patterns reveals nuanced selection criteria*  
    **Nature Human Behaviour** (2019)  
    [[paper](https://www.nature.com/articles/s41562-019-0585-7)]
