@@ -21,6 +21,9 @@ permalink: /publications/
    **Nature Machine Intelligence**  
    [[paper](https://www.nature.com/articles/s42256-019-0112-6)] [[data&code](https://github.com/amarallab/stopwords)]  
 
+   Media Coverage:  
+      +[Northwestern News](https://www.mccormick.northwestern.edu/news/articles/2019/12/new-framework-brings-accuracy-efficiency-to-identifying-stop-words.html)
+
 0. Martin Gerlach, Eduardo G. Altmann  
    *Testing statistical laws in complex systems*  
    **Physical Review Letters** (2019)  
