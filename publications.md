@@ -15,8 +15,7 @@ permalink: /publications/
    **under review**  
    [[arxiv](https://arxiv.org/abs/1812.08092)] [[code](https://github.com/pgcorpus/gutenberg)] [[data](https://doi.org/10.5281/zenodo.2422560)]  
 
-0. Martin Gerlach\*, Hanyu Shi\*, Luis A.N. Amaral  
-   (\* equal contribution) 
+0. Martin Gerlach\*, Hanyu Shi\*, Luis A.N. Amaral (\* equal contribution)  
    *A universal information theoretic approach to the identification of stopwords*  
    **Nature Machine Intelligence**  
    [[paper](https://www.nature.com/articles/s42256-019-0112-6)] [[data&code](https://github.com/amarallab/stopwords)]  
