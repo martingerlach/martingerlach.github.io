@@ -53,6 +53,7 @@ permalink: /publications/
    [[data&code](https://github.com/tstoeger/plos_biology_2018_ignored_genes)]
 
    Media Coverage:  
+       + [Top 10% most cited papers in PLOS Biology](https://collections.plos.org/biotop10#section-2018)  
        + [PLOS Biology Primer](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000034)  by Ian Dunham  
        + [New York Times](https://www.nytimes.com/2018/09/18/science/why-your-dna-is-still-uncharted-territory.html)  by Carl Zimmer  
        + [The Atlantic](https://www.theatlantic.com/science/archive/2018/09/the-popularity-contest-of-human-genes/570586)  by Ed Yong  
@@ -62,7 +63,7 @@ permalink: /publications/
        + [Nature (Daily Briefing)](https://www.nature.com/articles/d41586-018-06775-6)  
        + [F1000-prime](https://f1000.com/prime/734027260)
 
-   Comments:  
+   Comments/Replies:  
        + [*Far away from the lamppost*](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000067), PLOS Biology (2019)  
        + [*Reply to "Far away from the lamppost"*](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000075), PLOS Biology (2019)
 
@@ -72,7 +73,7 @@ permalink: /publications/
    [[paper](https://www.nature.com/articles/s41562-018-0419-z)]
    [[data&code](https://github.com/amarallab/personality-types)]
 
-   Media Coverage:  
+   Media Coverage:
        + [Northwestern News (Video)](https://www.mccormick.northwestern.edu/news/articles/2018/09/are-you-average-reserved-self-centered-or-a-role-model.html)  
        + [Scientific American](https://www.scientificamerican.com/article/big-data-gives-the-big-5-personality-traits-a-makeover/)  
        + [Science Magazine](http://www.sciencemag.org/news/2018/09/researchers-have-identified-new-personality-type-chances-are-you-ve-had-it)  
@@ -80,9 +81,9 @@ permalink: /publications/
        + [Washington Post](https://www.washingtonpost.com/science/2018/09/17/scientists-identify-four-personality-types/)  
        + [Süddeutsche Zeitung (German)](https://www.sueddeutsche.de/wissen/psychologie-persoenlichkeitstypen-1.4133009)
 
-   Comments:  
+   Comments/Replies:  
 + [*Four personality types may be neither robust nor exhaustive*](https://www.nature.com/articles/s41562-019-0721-4), Nature Human Behaviour (2019)  
-+ [*Reply to: Four personality types may be neither robust nor exhaustive*](https://www.nature.com/articles/s41562-019-0722-3), Nature Human Behaviour (2019)  
+    + [*Reply to: Four personality types may be neither robust nor exhaustive*](https://www.nature.com/articles/s41562-019-0722-3), Nature Human Behaviour (2019)  
 + [*Distribution of personality: Types or skewness?*](https://psyarxiv.com/wua9j), PsyArXiv  preprint (2019)  
 + [*Reply to Katahira et al. “Distribution of personality: Types or skewness?”*](https://psyarxiv.com/rvpfs/), PsyArXiv preprint (2019)
 
