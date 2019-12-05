@@ -20,7 +20,7 @@ permalink: /publications/
    **Nature Machine Intelligence** (2019)
    [[paper](https://www.nature.com/articles/s42256-019-0112-6)] 
    [[pdf (read-only)](https://rdcu.be/bX6QU)]
-   [[pdf](https://amaral.northwestern.edu/media/publication_pdfs/2019_NMI_Information-Theory-Stopwords.pdf)]
+   [[pdf](https://amaral.northwestern.edu/media/publication_pdfs/s42256-019-0112-6.pdf)]
    [[data&code](https://github.com/amarallab/stopwords)] 
    
 
