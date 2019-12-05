@@ -18,7 +18,10 @@ permalink: /publications/
 0. Martin Gerlach\*, Hanyu Shi\*, Luis A.N. Amaral (\* equal contribution)  
    *A universal information theoretic approach to the identification of stopwords*  
    **Nature Machine Intelligence** (2019)
-   [[paper](https://www.nature.com/articles/s42256-019-0112-6)] [[data&code](https://github.com/amarallab/stopwords)]  
+   [[paper](https://www.nature.com/articles/s42256-019-0112-6)] 
+   [[pdf (read-only)](https://rdcu.be/bX6QU)]
+   [[data&code](https://github.com/amarallab/stopwords)] 
+   
 
    Media Coverage:  
       +[Northwestern News](https://www.mccormick.northwestern.edu/news/articles/2019/12/new-framework-brings-accuracy-efficiency-to-identifying-stop-words.html)
@@ -34,6 +37,7 @@ permalink: /publications/
    *Large scale analysis of micro-level citation patterns reveals nuanced selection criteria*  
    **Nature Human Behaviour** (2019)  
    [[paper](https://www.nature.com/articles/s41562-019-0585-7)]
+   [[pdf](https://amaral.northwestern.edu/media/publication_pdfs/s41562-019-0722-3_1570792446_1.pdf)]
    [[data&code](https://github.com/juliettapc/my_In_text_citations)]
 
    Media Coverage:  
@@ -64,13 +68,13 @@ permalink: /publications/
        + [F1000-prime](https://f1000.com/prime/734027260)
 
    Comments/Replies:  
-       + [*Far away from the lamppost*](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000067), PLOS Biology (2019)  
        + [*Reply to "Far away from the lamppost"*](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000075), PLOS Biology (2019)
 
 0. Martin Gerlach, Beatrice Farb, William Revelle, Luis A.N. Amaral  
    *A robust data-driven approach identifies four personality types across four large data sets*  
    **Nature Human Behaviour** (2018)  
    [[paper](https://www.nature.com/articles/s41562-018-0419-z)]
+   [[pdf](https://amaral.northwestern.edu/media/publication_pdfs/2018_NHB_Personality-types.pdf)]
    [[data&code](https://github.com/amarallab/personality-types)]
 
    Media Coverage:
@@ -82,10 +86,8 @@ permalink: /publications/
        + [Süddeutsche Zeitung (German)](https://www.sueddeutsche.de/wissen/psychologie-persoenlichkeitstypen-1.4133009)
 
    Comments/Replies:  
-+ [*Four personality types may be neither robust nor exhaustive*](https://www.nature.com/articles/s41562-019-0721-4), Nature Human Behaviour (2019)  
-    + [*Reply to: Four personality types may be neither robust nor exhaustive*](https://www.nature.com/articles/s41562-019-0722-3), Nature Human Behaviour (2019)  
-+ [*Distribution of personality: Types or skewness?*](https://psyarxiv.com/wua9j), PsyArXiv  preprint (2019)  
-+ [*Reply to Katahira et al. “Distribution of personality: Types or skewness?”*](https://psyarxiv.com/rvpfs/), PsyArXiv preprint (2019)
+    + [*Reply to: Four personality types may be neither robust nor exhaustive*](https://www.nature.com/articles/s41562-019-0722-3), Nature Human Behaviour (2019)  [[pdf](https://amaral.northwestern.edu/media/publication_pdfs/s41562-019-0722-3_1570792446_1.pdf)]
+    + [*Reply to Katahira et al. “Distribution of personality: Types or skewness?”*](https://psyarxiv.com/rvpfs/), PsyArXiv preprint (2019)
 
 0. Martin Gerlach, Tiago P. Peixoto, Eduardo G. Altmann  
    *A network approach to topic models*  
