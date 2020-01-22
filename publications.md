@@ -12,17 +12,20 @@ permalink: /publications/
 
 0. Martin Gerlach, Francesc Font-Clos  
    *A standardized Project Gutenberg corpus for statistical analysis of natural language and quantitative linguistics*  
-   **under review**  
-   [[arxiv](https://arxiv.org/abs/1812.08092)] [[code](https://github.com/pgcorpus/gutenberg)] [[data](https://doi.org/10.5281/zenodo.2422560)]  
+   **Entropy** (2020)  
+   [[paper]](https://www.mdpi.com/1099-4300/22/1/126)
+   [[arxiv](https://arxiv.org/abs/1812.08092)]
+   [[code](https://github.com/pgcorpus/gutenberg)]
+   [[data](https://doi.org/10.5281/zenodo.2422560)]  
 
 0. Martin Gerlach\*, Hanyu Shi\*, Luis A.N. Amaral (\* equal contribution)  
    *A universal information theoretic approach to the identification of stopwords*  
    **Nature Machine Intelligence** (2019)
-   [[paper](https://www.nature.com/articles/s42256-019-0112-6)] 
+   [[paper](https://www.nature.com/articles/s42256-019-0112-6)]
    [[pdf (read-only)](https://rdcu.be/bX6QU)]
    [[pdf](https://amaral.northwestern.edu/media/publication_pdfs/s42256-019-0112-6.pdf)]
-   [[data&code](https://github.com/amarallab/stopwords)] 
-   
+   [[data&code](https://github.com/amarallab/stopwords)]
+
 
    Media Coverage:  
       +[Northwestern News](https://www.mccormick.northwestern.edu/news/articles/2019/12/new-framework-brings-accuracy-efficiency-to-identifying-stop-words.html)
