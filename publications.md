@@ -13,7 +13,7 @@ permalink: /publications/
 0. Martin Gerlach, Francesc Font-Clos  
    *A standardized Project Gutenberg corpus for statistical analysis of natural language and quantitative linguistics*  
    **Entropy** (2020)  
-   [[paper]](https://www.mdpi.com/1099-4300/22/1/126)
+   [[paper](https://www.mdpi.com/1099-4300/22/1/126)]
    [[arxiv](https://arxiv.org/abs/1812.08092)]
    [[code](https://github.com/pgcorpus/gutenberg)]
    [[data](https://doi.org/10.5281/zenodo.2422560)]  
