@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 
 ---
+* **2021-06-24**: I will be giving a keynote talk at [PCNet21](https://pcnetworkshop.wordpress.com/), a satellite workshop on political communication networks as part of [Networks 21](https://networks2021.net/):  A Joint Sunbelt and NetSci Conference.
+
 * **2020-01-20**: New paper in *Entropy*. [ A Standardized Project Gutenberg Corpus for Statistical Analysis of Natural Language and Quantitative Linguistics](https://www.mdpi.com/1099-4300/22/1/126)  with Francesc Font-Clos.
 
 * **2019-12-02**: New paper in *Nature Machine Intelligence*. [A universal information theoretic approach to the identification of stopwords](https://www.nature.com/articles/s42256-019-0112-6)  with Hanyu Shi and Luis A. N. Amaral.
