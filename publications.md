@@ -219,11 +219,16 @@ permalink: /publications/
 
 [[Publons-profile](https://publons.com/author/1216225/martin-gerlach#profile)]
 
-I have reviewed for the following journals:
+I have reviewed for the following journals/conferences:
 
 * [Artificial Life](https://www.mitpressjournals.org/loi/artl)
+* [Communications Physics](https://www.nature.com/commsphys/)
+* [Entropy](https://www.mdpi.com/journal/entropy)
 * [European Physics Journal B (EPJB)](http://epjb.epj.org/)
 * [EPL (Europhysics Letters)](http://iopscience.iop.org/0295-5075)
+* [EPJ Data Science](https://epjdatascience.springeropen.com/)
+* [Frontiers in Digital Humanities](https://www.frontiersin.org/journals/digital-humanities#)
+* [Harvard Data Science Review](https://review.datascience.harvard.edu/)
 * [Information Sciences](http://www.journals.elsevier.com/information-sciences)
 * [Journal of Language Evolution](http://jole.oxfordjournals.org/)
 * [Journal of Physics Communications](https://iopscience.iop.org/journal/2399-6528)
@@ -233,18 +238,26 @@ I have reviewed for the following journals:
 * [Nature Human Behaviour](https://www.nature.com/nathumbehav/)
 * [Nature Scientific Reports](http://www.nature.com/srep/)
 * [New Journal of Physics](http://iopscience.iop.org/1367-2630/)
+* [PeerJ Computer Science](https://peerj.com/computer-science/)
 * [Physical Review E](http://journals.aps.org/pre/)
 * [Physical Review Letters](http://journals.aps.org/prl/)
+* [Physical Review Research](https://journals.aps.org/prresearch/)
+* [Physical Review X](https://journals.aps.org/prx/)
 * [Physics Letters A](http://www.journals.elsevier.com/physics-letters-a/)
 * [PlosOne](http://www.plosone.org/)
 * [Proceedings of the Royal Society B](http://rspb.royalsocietypublishing.org/)
 * [Royal Society Open Science](http://rsos.royalsocietypublishing.org/)
+* [Scientific Reports](https://www.nature.com/srep/)
+* [WikiWorkshop](https://wikiworkshop.org/)
 
 I have been handling editor for [PNAS](https://www.pnas.org/)
 
 ---
 
 # Conferences & Seminars
+
+* [PCNet 21](https://pcnetworkshop.wordpress.com/): satellite workshop on political communication networks as part of [Networks 21](https://networks2021.net/): A Joint Sunbelt and NetSci Conference. Online, 06/2021
+   [**Keynote**]
 
 * [Max Planck Institute for the History of Science](https://www.mpiwg-berlin.mpg.de/), Berlin, 06/2019
    [**Invited talk**]
