@@ -12,7 +12,6 @@ permalink: /publications/
 
 0. Isaac Johnson, Martin Gerlach, Diego Saez-Trumper
    *Language-agnostic Topic Classification for Wikipedia*
-
    **WikiWorkshop 2021**
    [[paper](https://dl.acm.org/doi/abs/10.1145/3442442.3452347)]
    [[arxiv](https://arxiv.org/abs/2103.00068)]
@@ -22,7 +21,6 @@ permalink: /publications/
 
 0. Martin Gerlach, Marshall Miller, Rita Ho, Kosta Harlan, Djellel Difallah
    *A Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop Approach*
-
    **under review**
    [[paper](https://arxiv.org/abs/2105.15110)]
    [[code](https://github.com/wikimedia/research-mwaddlink)]
@@ -31,14 +29,12 @@ permalink: /publications/
 
 0. Miriam Redi, Martin Gerlach, Isaac Johnson, Jonathan Morgan, Leila Zia
    *A Taxonomy of Knowledge Gaps for Wikimedia Projects (Second Draft)*
-
    **unpublished**
    [[paper](https://arxiv.org/abs/2008.12314)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Knowledge_Gaps_Index/Taxonomy)]
 
 0. Ziyou Ren, Martin Gerlach, Hanyu Shi, GR Scott Budinger, Luis A Nunes Amaral
    *Information-theory-based benchmarking and feature selection algorithm improve cell type annotation and reproducibility of single cell RNA-seq data analysis pipelines*
-
    **under review**
    [[paper](https://www.biorxiv.org/content/10.1101/2020.11.02.365510v3.abstract)]
    [[code](https://github.com/amarallab/Benchmark_scRNA_seq)]
