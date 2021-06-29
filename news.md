@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 
 ---
+* **2021-06-28**: New paper in *EPJ Data Science*. [Multilayer networks for text analysis with multiple data types](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00288-5)  with Charles C. Hyland, Yuanming Tao, Lamiae Azizi, Tiago P. Peixoto, and Eduardo G. Altmann.
+
 * **2021-06-24**: I will be giving a keynote talk at [PCNet21](https://pcnetworkshop.wordpress.com/), a satellite workshop on political communication networks as part of [Networks 21](https://networks2021.net/):  A Joint Sunbelt and NetSci Conference.
 
 * **2020-01-20**: New paper in *Entropy*. [ A Standardized Project Gutenberg Corpus for Statistical Analysis of Natural Language and Quantitative Linguistics](https://www.mdpi.com/1099-4300/22/1/126)  with Francesc Font-Clos.
