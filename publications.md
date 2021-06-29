@@ -240,7 +240,6 @@ I have reviewed for the following journals/conferences:
 * [Journal of Language Evolution](http://jole.oxfordjournals.org/)
 * [Journal of Physics Communications](https://iopscience.iop.org/journal/2399-6528)
 * [Journal of Statistical Mechanics: Theory and Experiment (JSTAT)](http://iopscience.iop.org/1742-5468)
-* [Frontiers in Digital Humanities](http://journal.frontiersin.org/journal/digital-humanities)
 * [Language Dynamics and Change](https://brill.com/ldc)
 * [Nature Human Behaviour](https://www.nature.com/nathumbehav/)
 * [Nature Scientific Reports](http://www.nature.com/srep/)
