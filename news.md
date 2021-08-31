@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 
 ---
+* **2021-08-09**: New paper accepted at *CIKM 2021*. [Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop Approach](https://www.cikm2021.org/accepted-papers/applied)  with Marshall Miller, Rita Ho, Kosta Harlan, and Djellel Difallah.
+
 * **2021-06-28**: New paper in *EPJ Data Science*. [Multilayer networks for text analysis with multiple data types](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00288-5)  with Charles C. Hyland, Yuanming Tao, Lamiae Azizi, Tiago P. Peixoto, and Eduardo G. Altmann.
 
 * **2021-06-24**: I will be giving a keynote talk at [PCNet21](https://pcnetworkshop.wordpress.com/), a satellite workshop on political communication networks as part of [Networks 21](https://networks2021.net/):  A Joint Sunbelt and NetSci Conference.
