@@ -10,10 +10,24 @@ permalink: /publications/
 
 #### Papers
 
+0. Tiziano Piccardi, Martin Gerlach, Akhil Arora, Robert West
+   *A Large-Scale Characterization of How Readers Browse Wikipedia*
+   **under review**
+   [[arxiv](https://arxiv.org/abs/2112.11848)]
+   [[meta](https://meta.wikimedia.org/wiki/Research:Characterizing_Readers_Navigation/Characterizing_the_structure_of_navigation_pathways)]
+
+0. Akhil Arora, Martin Gerlach, Tiziano Piccardi, Alberto García-Durán, Robert West
+   *Wikipedia Reader Navigation: When Synthetic Data Is Enough*
+   **WSDM 2022**
+   [[paper](https://www.wsdm-conference.org/2022/accepted-papers/)]
+   [[arxiv](https://arxiv.org/abs/2201.00812)]
+   [[code](https://github.com/epfl-dlab/wikinav-approx)]
+   [[meta](https://meta.wikimedia.org/wiki/Research:Characterizing_Readers_Navigation/Comparing-webrequest-logs-and-clickstream-data)]
+
 0. Martin Gerlach, Marshall Miller, Rita Ho, Kosta Harlan, Djellel Difallah
    *A Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop Approach*
    **CIKM 2021**
-   [[paper](https://www.cikm2021.org/accepted-papers/applied)]
+   [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3481939)]
    [[arxiv](https://arxiv.org/abs/2105.15110)]
    [[code](https://github.com/wikimedia/research-mwaddlink)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Link_recommendation_model_for_add-a-link_structured_task)]
@@ -23,6 +37,7 @@ permalink: /publications/
    *Multilayer networks for text analysis with multiple data types*  
    **EPJ Data Science** (2021)  
    [[paper](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00288-5)]
+   [[arxiv](https://arxiv.org/abs/2106.15821)]
    [[data&code: TopSBM](https://topsbm.github.io/)]
 
 0. Isaac Johnson, Martin Gerlach, Diego Saez-Trumper
