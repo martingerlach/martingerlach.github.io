@@ -10,37 +10,37 @@ permalink: /publications/
 
 #### Papers
 
-0. Tiziano Piccardi, Martin Gerlach, Akhil Arora, Robert West
-   *A Large-Scale Characterization of How Readers Browse Wikipedia*
-   **under review**
+0. Tiziano Piccardi, Martin Gerlach, Akhil Arora, Robert West  
+   *A Large-Scale Characterization of How Readers Browse Wikipedia*  
+   **under review**  
    [[arxiv](https://arxiv.org/abs/2112.11848)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Characterizing_Readers_Navigation/Characterizing_the_structure_of_navigation_pathways)]
 
-0. Akhil Arora, Martin Gerlach, Tiziano Piccardi, Alberto García-Durán, Robert West
-   *Wikipedia Reader Navigation: When Synthetic Data Is Enough*
-   **WSDM 2022**
+0. Akhil Arora, Martin Gerlach, Tiziano Piccardi, Alberto García-Durán, Robert West  
+   *Wikipedia Reader Navigation: When Synthetic Data Is Enough*  
+   **WSDM 2022**  
    [[paper](https://www.wsdm-conference.org/2022/accepted-papers/)]
    [[arxiv](https://arxiv.org/abs/2201.00812)]
    [[code](https://github.com/epfl-dlab/wikinav-approx)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Characterizing_Readers_Navigation/Comparing-webrequest-logs-and-clickstream-data)]
 
-0. Martin Gerlach, Marshall Miller, Rita Ho, Kosta Harlan, Djellel Difallah
-   *A Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop Approach*
-   **CIKM 2021**
+0. Martin Gerlach, Marshall Miller, Rita Ho, Kosta Harlan, Djellel Difallah  
+  *A Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop Approach*  
+  **CIKM 2021**  
    [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3481939)]
    [[arxiv](https://arxiv.org/abs/2105.15110)]
    [[code](https://github.com/wikimedia/research-mwaddlink)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Link_recommendation_model_for_add-a-link_structured_task)]
    [[tool](https://www.mediawiki.org/wiki/Growth/Personalized_first_day/Structured_tasks/Add_a_link)]
 
-0. Charles C. Hyland, Yuanming Tao, Lamiae Azizi, Martin Gerlach, Tiago P. Peixoto, Eduardo G. Altmann
+0. Charles C. Hyland, Yuanming Tao, Lamiae Azizi, Martin Gerlach, Tiago P. Peixoto, Eduardo G. Altmann  
    *Multilayer networks for text analysis with multiple data types*  
    **EPJ Data Science** (2021)  
    [[paper](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00288-5)]
    [[arxiv](https://arxiv.org/abs/2106.15821)]
    [[data&code: TopSBM](https://topsbm.github.io/)]
 
-0. Isaac Johnson, Martin Gerlach, Diego Saez-Trumper
+0. Isaac Johnson, Martin Gerlach, Diego Saez-Trumper  
     *Language-agnostic Topic Classification for Wikipedia*  
     **WikiWorkshop 2021**  
     [[paper](https://dl.acm.org/doi/abs/10.1145/3442442.3452347)]
@@ -50,19 +50,19 @@ permalink: /publications/
     [[meta](https://meta.wikimedia.org/wiki/Research:Language-Agnostic_Topic_Classification)]
 
 
-0. Miriam Redi, Martin Gerlach, Isaac Johnson, Jonathan Morgan, Leila Zia
+0. Miriam Redi, Martin Gerlach, Isaac Johnson, Jonathan Morgan, Leila Zia  
    *A Taxonomy of Knowledge Gaps for Wikimedia Projects (Second Draft)*  
    **unpublished**  
    [[paper](https://arxiv.org/abs/2008.12314)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Knowledge_Gaps_Index/Taxonomy)]
 
-0. Ziyou Ren, Martin Gerlach, Hanyu Shi, GR Scott Budinger, Luis A Nunes Amaral
+0. Ziyou Ren, Martin Gerlach, Hanyu Shi, GR Scott Budinger, Luis A Nunes Amaral  
    *Information-theory-based benchmarking and feature selection algorithm improve cell type annotation and reproducibility of single cell RNA-seq data analysis pipelines*  
    **under review**  
    [[paper](https://www.biorxiv.org/content/10.1101/2020.11.02.365510v3.abstract)]
    [[code](https://github.com/amarallab/Benchmark_scRNA_seq)]
 
-0. Martin Gerlach, Francesc Font-Clos
+0. Martin Gerlach, Francesc Font-Clos  
    *A standardized Project Gutenberg corpus for statistical analysis of natural language and quantitative linguistics*  
    **Entropy** (2020)  
    [[paper](https://www.mdpi.com/1099-4300/22/1/126)]
@@ -70,7 +70,7 @@ permalink: /publications/
    [[code](https://github.com/pgcorpus/gutenberg)]
    [[data](https://doi.org/10.5281/zenodo.2422560)]
 
-0. Martin Gerlach\*, Hanyu Shi\*, Luis A.N. Amaral (\* equal contribution)
+0. Martin Gerlach\*, Hanyu Shi\*, Luis A.N. Amaral (\* equal contribution)  
    *A universal information theoretic approach to the identification of stopwords*  
    **Nature Machine Intelligence** (2019)  
    [[paper](https://www.nature.com/articles/s42256-019-0112-6)]
@@ -82,14 +82,14 @@ permalink: /publications/
    Media Coverage:  
       +[Northwestern News](https://www.mccormick.northwestern.edu/news/articles/2019/12/new-framework-brings-accuracy-efficiency-to-identifying-stop-words.html)
 
-0. Martin Gerlach, Eduardo G. Altmann
+0. Martin Gerlach, Eduardo G. Altmann  
    *Testing statistical laws in complex systems*  
    **Physical Review Letters** (2019)  
    [[paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.168301)]
    [[arxiv](https://arxiv.org/abs/1904.11624)]
    [[data&code](https://doi.org/10.5281/zenodo.2641375)]
 
-0. Julia Poncela-Casasnovas, Martin Gerlach, Nathan Aguirre, Luis A.N. Amaral
+0. Julia Poncela-Casasnovas, Martin Gerlach, Nathan Aguirre, Luis A.N. Amaral  
    *Large scale analysis of micro-level citation patterns reveals nuanced selection criteria*  
    **Nature Human Behaviour** (2019)  
    [[paper](https://www.nature.com/articles/s41562-019-0585-7)]
@@ -99,14 +99,14 @@ permalink: /publications/
    Media Coverage:  
       +[phys.org](https://phys.org/news/2019-04-successful-papers-cite-young.html)
 
-0. Hanyu Shi, Martin Gerlach, Isabel Diersen, Doug Downey, Luis A.N. Amaral
+0. Hanyu Shi, Martin Gerlach, Isabel Diersen, Doug Downey, Luis A.N. Amaral  
    *A new evaluation framework for topic modeling algorithms based on synthetic corpora*  
    **AISTATS (2019)**, Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics  
    [[paper](http://proceedings.mlr.press/v89/shi19a.html)]
    [[arxiv](https://arxiv.org/abs/1901.09848)]
    [[code](https://github.com/amarallab/synthetic_benchmark_topic_model)]
 
-0. Thomas Stoeger, Martin Gerlach, Richard I. Morimoto, Luis A.N. Amaral
+0. Thomas Stoeger, Martin Gerlach, Richard I. Morimoto, Luis A.N. Amaral  
    *Large-scale investigation of the reasons why potentially important genes are ignored*  
    **PLOS Biology** (2018)  
    [[paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006643)]
@@ -126,7 +126,7 @@ permalink: /publications/
    Comments/Replies:  
        + [*Reply to "Far away from the lamppost"*](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000075), PLOS Biology (2019)
 
-0. Martin Gerlach, Beatrice Farb, William Revelle, Luis A.N. Amaral
+0. Martin Gerlach, Beatrice Farb, William Revelle, Luis A.N. Amaral  
    *A robust data-driven approach identifies four personality types across four large data sets*  
    **Nature Human Behaviour** (2018)  
    [[paper](https://www.nature.com/articles/s41562-018-0419-z)]
@@ -145,7 +145,7 @@ permalink: /publications/
     + [*Reply to: Four personality types may be neither robust nor exhaustive*](https://www.nature.com/articles/s41562-019-0722-3), Nature Human Behaviour (2019)  [[pdf](https://amaral.northwestern.edu/media/publication_pdfs/s41562-019-0722-3_1570792446_1.pdf)]  
     + [*Reply to Katahira et al. “Distribution of personality: Types or skewness?”*](https://psyarxiv.com/rvpfs/), PsyArXiv preprint (2019)
 
-0. Martin Gerlach, Tiago P. Peixoto, Eduardo G. Altmann
+0. Martin Gerlach, Tiago P. Peixoto, Eduardo G. Altmann  
    *A network approach to topic models*  
    **Science Advances** (2018)  
    [[paper](http://advances.sciencemag.org/content/4/7/eaaq1360)]
@@ -156,26 +156,26 @@ permalink: /publications/
        + [Northwestern Data Science Initiative](https://datascience.northwestern.edu/2018/10/15/using-network-science-to-analyze-human-language/)  
        + [TechXplore](https://techxplore.com/news/2018-07-complex-network-based-approach-topic.html)
 
-0. Laercio Dias, Martin Gerlach, Joachim Scharloth, Eduardo G. Altmann
+0. Laercio Dias, Martin Gerlach, Joachim Scharloth, Eduardo G. Altmann  
    *Using text analysis to quantify the similarity and evolution of scientific disciplines*  
    **Royal Society Open Science** (2018)  
    [[paper](http://rsos.royalsocietypublishing.org/content/5/1/171545)]
    [[arxiv](https://arxiv.org/abs/1706.08671)]
 
-0. Eduardo G. Altmann, Laercio Dias, Martin Gerlach
+0. Eduardo G. Altmann, Laercio Dias, Martin Gerlach  
    *Generalized Entropies and the Similarity of Texts*  
    **Journal of Statistical Mechanics** (2017)  
    [[paper](http://iopscience.iop.org/article/10.1088/1742-5468/aa53f5)]
    [[arxiv](https://arxiv.org/abs/1611.03596)]
 
-0. Jorge C.  Leit&#227;o, Jose M. Miotto, Martin Gerlach, Eduardo G. Altmann
+0. Jorge C.  Leit&#227;o, Jose M. Miotto, Martin Gerlach, Eduardo G. Altmann  
    *Is this scaling nonlinear?*  
    **Royal Society Open Science** (2016)  
    [[paper](http://rsos.royalsocietypublishing.org/content/3/7/150649)]
    [[arxiv](http://arxiv.org/abs/1604.02872)]
    [[data&code](http://dx.doi.org/10.5281/zenodo.49367)]
 
-0. Martin Gerlach, Francesc Font-Clos, Eduardo G. Altmann
+0. Martin Gerlach, Francesc Font-Clos, Eduardo G. Altmann  
    *Similarity of symbol frequency distributions with heavy tails*  
    **Physical Review X** (2016)  
    [[paper](https://link.aps.org/doi/10.1103/PhysRevX.6.021009/)]
@@ -186,13 +186,13 @@ permalink: /publications/
        + [Physics Today](http://scitation.aip.org/content/aip/magazine/physicstoday/news/10.1063/PT.5.7257)  
        + [Ria Novotny (Russian)](http://m.ria.ru/science/20160418/1414017867.html)
 
-0. Eduardo G. Altmann, Martin Gerlach
+0. Eduardo G. Altmann, Martin Gerlach  
    *Statistical laws in linguistics*  
    In **Creativity and Universality in Language** (Springer, 2016)  
    [[paper](https://link.springer.com/chapter/10.1007/978-3-319-24403-7_2)]
    [[arxiv](https://arxiv.org/abs/1502.03296)]
 
-0. Martin Gerlach, Eduardo G. Altmann
+0. Martin Gerlach, Eduardo G. Altmann  
    *Scaling laws and fluctuations in the statistics of word frequencies*  
    **New Journal of Physics** (2014)  
    [[paper](http://iopscience.iop.org/1367-2630/16/11/113010/)]
@@ -209,13 +209,13 @@ permalink: /publications/
    Media Coverage:  
        + [Spiegel Online (German)](http://spon.de/aelV3)
 
-0. Martin Gerlach, Eduardo G. Altmann
+0. Martin Gerlach, Eduardo G. Altmann  
    *Stochastic Model for the Vocabulary Growth in Natural Languages*  
    **Physical Review X** (2013)  
    [[paper](http://link.aps.org/doi/10.1103/PhysRevX.3.021006)]
    [[arxiv](http://arxiv.org/abs/1212.1362)]
 
-0. Martin Gerlach, Sebastian Wüster, Jan-Michael Rost
+0. Martin Gerlach, Sebastian Wüster, Jan-Michael Rost  
    *Kicking Electrons*  
    **Journal of Physics B** (2012)  
    [[paper](http://iopscience.iop.org/0953-4075/45/23/235204/)]
@@ -227,13 +227,13 @@ permalink: /publications/
 #### Thesis
 
 * Doctoral Thesis (2016)  
-   *Universality and variability in the statistics of data with fat-tailed distributions: The case of word frequencies in natural languages*
+   *Universality and variability in the statistics of data with fat-tailed distributions: The case of word frequencies in natural languages*  
    presented to the Physics Department of Dresden University of Technology; produced at the Max Planck Institute for the Physics of Complex Systems
    [[link](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-199083)]
    [[pdf](http://tud.qucosa.de/api/qucosa%3A29281/attachment/ATT-0/)]
 
 * Diploma Thesis (2011)  
-   *Hamiltonians dominanter Wechselwirkung*
+   *Hamiltonians dominanter Wechselwirkung*  
    presented to the Physics Department of Dresden University of Technology; produced at the Max Planck Institute for the Physics of Complex Systems
 
 ---
@@ -271,6 +271,7 @@ I have reviewed for the following journals/conferences:
 * [Proceedings of the Royal Society B](http://rspb.royalsocietypublishing.org/)
 * [Royal Society Open Science](http://rsos.royalsocietypublishing.org/)
 * [Scientific Reports](https://www.nature.com/srep/)
+* [The Web Conference](https://www2022.thewebconf.org/the-web-conference/)
 * [WikiWorkshop](https://wikiworkshop.org/)
 
 I have been handling editor for [PNAS](https://www.pnas.org/)
