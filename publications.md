@@ -224,6 +224,19 @@ permalink: /publications/
    Media Coverage:  
        + Selected for [Highlights of 2012](http://iopscience.iop.org/0953-4075/page/Highlights%20of%202012) by the editors of Journal of Physics B
 
+#### Blogposts
+
+0. Muniza A., Isaac Johnson, and Martin Gerlach  
+   *Analyzing the Wikipedia clickstream just got easier with WikiNav*  
+   **Wikimedia Tech-blog** (2021)  
+   [[tool](https://wikinav.toolforge.org/)]
+   [[code](https://github.com/mnzpk/wikinav)]
+   [[meta](https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream/WikiNav)]
+
+0. Cristina Butoiu, Martin Gerlach, and Leighanna Mixter  
+   *World Suicide Prevention Day and the opportunity to increase access to mental health information on Wikimedia projects*  
+   **Wikimedia Diff-blog** (2021)  
+
 #### Thesis
 
 * Doctoral Thesis (2016)  
