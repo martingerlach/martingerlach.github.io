@@ -4,6 +4,15 @@ title: News
 permalink: /news/
 
 ---
+
+* **2021-10-11**: New paper accepted at *WSDM 2022*. [Wikipedia Reader Navigation: When Synthetic Data Is Enough](https://www.wsdm-conference.org/2022/accepted-papers/)  with Akhil Arora, Tiziano Piccardi, Alberto García-Durán, and Robert West.
+
+* **2021-09-17**: New blogpost on *Wikimedia Techblog* [Analyzing the Wikipedia clickstream just got easier with WikiNav](https://techblog.wikimedia.org/2021/09/17/analyzing-the-wikipedia-clickstream-just-got-easier-with-wikinav/) with Muniza A. and Isaac Johnson .
+
+* **2021-09-09**: New blogpost on *Diff* [World Suicide Prevention Day and the opportunity to increase access to mental health information on Wikimedia projects](https://diff.wikimedia.org/2021/09/09/world-suicide-prevention-day-and-the-opportunity-to-increase-access-to-mental-health-information-on-wikimedia-projects/) with Cristina Butoiu and Leighanna Mixter.
+
+* **2021-08-09**: New paper accepted at *CIKM 2021*. [Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop Approach](https://www.cikm2021.org/accepted-papers/applied)  with Marshall Miller, Rita Ho, Kosta Harlan, and Djellel Difallah.
+
 * **2021-08-15** I attended [*Wikimania 2021*](https://wikimania.wikimedia.org/wiki/Wikimania) and talked about [Editing with machine learning: a case study on link recommendations](https://wikimania.wikimedia.org/wiki/2021:Submissions/Editing_with_machine_learning:_a_case_study_on_link_recommendations) and [Indicators for the Wikimedia Projects](https://wikimania.wikimedia.org/wiki/2021:Submissions/Indicators_for_the_Wikimedia_Projects).
 
 * **2021-08-09**: New paper accepted at *CIKM 2021*. [Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop Approach](https://www.cikm2021.org/accepted-papers/applied)  with Marshall Miller, Rita Ho, Kosta Harlan, and Djellel Difallah.
