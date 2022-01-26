@@ -227,14 +227,14 @@ permalink: /publications/
 #### Blogposts
 
 0. Muniza A., Isaac Johnson, and Martin Gerlach  
-   *Analyzing the Wikipedia clickstream just got easier with WikiNav*  
+   [*Analyzing the Wikipedia clickstream just got easier with WikiNav*](https://techblog.wikimedia.org/2021/09/17/analyzing-the-wikipedia-clickstream-just-got-easier-with-wikinav/)
    **Wikimedia Tech-blog** (2021)  
    [[tool](https://wikinav.toolforge.org/)]
    [[code](https://github.com/mnzpk/wikinav)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream/WikiNav)]
 
 0. Cristina Butoiu, Martin Gerlach, and Leighanna Mixter  
-   *World Suicide Prevention Day and the opportunity to increase access to mental health information on Wikimedia projects*  
+   [*World Suicide Prevention Day and the opportunity to increase access to mental health information on Wikimedia projects*](https://diff.wikimedia.org/2021/09/09/world-suicide-prevention-day-and-the-opportunity-to-increase-access-to-mental-health-information-on-wikimedia-projects) 
    **Wikimedia Diff-blog** (2021)  
 
 #### Thesis
