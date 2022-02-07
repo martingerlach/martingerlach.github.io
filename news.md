@@ -4,6 +4,7 @@ title: News
 permalink: /news/
 
 ---
+* **2022-03-25**: I will be giving an invited talk at the [Cavendish QI Seminars](https://www.qi.phy.cam.ac.uk/seminars/) at University of Cambridge hosted by the Cavendish Quantum Information Group and the Hitachi Cambridge Laboratory.
 
 * **2021-10-11**: New paper accepted at *WSDM 2022*. [Wikipedia Reader Navigation: When Synthetic Data Is Enough](https://www.wsdm-conference.org/2022/accepted-papers/)  with Akhil Arora, Tiziano Piccardi, Alberto García-Durán, and Robert West.
 
