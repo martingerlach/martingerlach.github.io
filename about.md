@@ -5,8 +5,9 @@ permalink: /about/
 redirect_from:
   - /index.html
 ---
- <!-- <img src="{{ site.baseurl }}/images/portrait.png" width="25%"  align="right">  -->
+ <!-- <img src="{{ site.baseurl }}/images/portrait.png" width="25%"  align="right">  
  <img src="{{ site.baseurl }}/images/MGH_5141_small.jpg" style="width:25%; float: right; padding: 0px 0px 20px 20px">
+ -->
 
 I am working as a [Research Scientist for the Wikimedia Foundation](https://research.wikimedia.org/index.html).
 
