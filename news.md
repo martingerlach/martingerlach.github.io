@@ -6,7 +6,7 @@ permalink: /news/
 ---
 * **2022-03-25**: I will be giving an invited talk at the [Cavendish QI Seminars](https://www.qi.phy.cam.ac.uk/seminars/) at University of Cambridge hosted by the Cavendish Quantum Information Group and the Hitachi Cambridge Laboratory.
 
-* **2022-03-16**: The [alumni magazine](https://tu-dresden.de/studium/nach-dem-studium/absolventenmagazin) of Dresden University of Technology published [a portrait about me](https://tu-dresden.de/studium/nach-dem-studium/alumniportraets/globale-vision-alle-sollen-am-wissen-teilhaben) covering my career path and my current work at Wikimedia Foundation. 
+* **2022-03-16**: [Kontakt-online](https://tu-dresden.de/studium/nach-dem-studium/absolventenmagazin), the alumni magazine of Dresden University of Technology, [published a portrait about me](https://tu-dresden.de/studium/nach-dem-studium/alumniportraets/globale-vision-alle-sollen-am-wissen-teilhaben) covering my career path and my current work at Wikimedia Foundation. It will appear as part of the [Spring Issue 2022](https://ea.newscpt.com/_ns.php?&nid=4794644&npw=d5f81d62d317e65d247d80c72).
 
 * **2022-03-04**: New paper accepted at *WikiWorkshop 2022*. [Going Down the Rabbit Hole: Characterizing the Long Tail of Wikipedia Reading Sessions
 ](https://arxiv.org/abs/2203.06932)  with Tiziano Piccardi, and Robert West.
