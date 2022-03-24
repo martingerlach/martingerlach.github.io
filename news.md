@@ -6,6 +6,11 @@ permalink: /news/
 ---
 * **2022-03-25**: I will be giving an invited talk at the [Cavendish QI Seminars](https://www.qi.phy.cam.ac.uk/seminars/) at University of Cambridge hosted by the Cavendish Quantum Information Group and the Hitachi Cambridge Laboratory.
 
+* **2022-03-16**: The [alumni magazine](https://tu-dresden.de/studium/nach-dem-studium/absolventenmagazin) of Dresden University of Technology published [a portrait about me](https://tu-dresden.de/studium/nach-dem-studium/alumniportraets/globale-vision-alle-sollen-am-wissen-teilhaben) covering my career path and my current work at Wikimedia Foundation. 
+
+* **2022-03-04**: New paper accepted at *WikiWorkshop 2022*. [Going Down the Rabbit Hole: Characterizing the Long Tail of Wikipedia Reading Sessions
+](https://arxiv.org/abs/2203.06932)  with Tiziano Piccardi, and Robert West.
+
 * **2021-10-11**: New paper accepted at *WSDM 2022*. [Wikipedia Reader Navigation: When Synthetic Data Is Enough](https://www.wsdm-conference.org/2022/accepted-papers/)  with Akhil Arora, Tiziano Piccardi, Alberto García-Durán, and Robert West.
 
 * **2021-09-17**: New blogpost on *Wikimedia Techblog* [Analyzing the Wikipedia clickstream just got easier with WikiNav](https://techblog.wikimedia.org/2021/09/17/analyzing-the-wikipedia-clickstream-just-got-easier-with-wikinav/) with Muniza A. and Isaac Johnson .

@@ -16,6 +16,11 @@ permalink: /publications/
    [[arxiv](https://arxiv.org/abs/2112.11848)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Characterizing_Readers_Navigation/Characterizing_the_structure_of_navigation_pathways)]
 
+ 0. Tiziano Piccardi, Martin Gerlach, Robert West  
+    *Going Down the Rabbit Hole: Characterizing the Long Tail of Wikipedia Reading Sessions*  
+    **WikiWorkshop 2022**, Companion Proceedings of The Web Conference 2022 (WWW '22).  
+    [[arxiv](https://arxiv.org/abs/2203.06932)]
+
 0. Akhil Arora, Martin Gerlach, Tiziano Piccardi, Alberto García-Durán, Robert West  
    *Wikipedia Reader Navigation: When Synthetic Data Is Enough*  
    **WSDM 2022**, Proceedings of the Fifteeenth ACM International Conference on Web Search and Data Mining  
