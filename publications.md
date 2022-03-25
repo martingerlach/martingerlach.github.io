@@ -297,6 +297,8 @@ I have been handling editor for [PNAS](https://www.pnas.org/)
 ---
 
 # Conferences & Seminars
+* [Cavendish QI Seminars](https://www.qi.phy.cam.ac.uk/seminars/) hosted by the Cavendish QI Group and the Hitachi Cambridge Laboratory at the University of Cambridge. Online, 03/2022
+   [**Invited talk**]
 * [Wikimania 2021](https://wikimania.wikimedia.org/wiki/Wikimania). Online, 08/2021
    [lecture, workshop]
 
