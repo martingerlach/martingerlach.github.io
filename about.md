@@ -9,7 +9,7 @@ redirect_from:
  <img src="{{ site.baseurl }}/images/MGH_5141_small.jpg" style="width:25%; float: right; padding: 0px 0px 20px 20px">
  -->
 
-I am working as a [Research Scientist for the Wikimedia Foundation](https://research.wikimedia.org/index.html).
+I am working as a [Senior Research Scientist for the Wikimedia Foundation](https://research.wikimedia.org/index.html).
 
 Before that I was a Postdoctoral Fellow at Northwestern University with [Luis Amaral](https://amaral.northwestern.edu/) and before that I did my PhD at the Max Planck Insitute for the Physics of Complex Systems with [Eduardo Altmann](http://www.maths.usyd.edu.au/u/ega/).
 
