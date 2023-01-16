@@ -6,7 +6,7 @@ permalink: /news/
 ---
 * **2023-06-07**: I will be giving an invited talk at the [Computational Social Science Seminar](https://cmb.huma-num.fr/css-seminar/) at the [Centre Marc Bloch](https://cmb.hu-berlin.de/) in Berlin.
 
-* **2023-02-04**: I will be giving a talk at the [FOSDEM 23](https://fosdem.org/2023/) about [Building open tools to support research on Wikimedia projects](https://fosdem.org/2023/schedule/event/openresearch_wikimedia/).
+* **2023-02-04**: I will be giving a talk at [FOSDEM 23](https://fosdem.org/2023/) about [Building open tools to support research on Wikimedia projects](https://fosdem.org/2023/schedule/event/openresearch_wikimedia/).
 
 * **2023-01-13**: New paper accepted at *ACM Transactions on the Web*. [A Large-Scale Characterization of How Readers Browse Wikipedia](https://dl.acm.org/doi/10.1145/3580318) with Tiziano Piccardi, Akhil Arora, and Robert West.
 
