@@ -12,7 +12,7 @@ permalink: /publications/
 
 0. Tiziano Piccardi, Martin Gerlach, Akhil Arora, Robert West  
    *A Large-Scale Characterization of How Readers Browse Wikipedia*  
-   **ACM Transaction on the Web** (2023)
+   **ACM Transaction on the Web** (2023)  
    [[paper](https://dl.acm.org/doi/10.1145/3580318)]
    [[arxiv](https://arxiv.org/abs/2112.11848)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Characterizing_Readers_Navigation/Characterizing_the_structure_of_navigation_pathways)]
