@@ -12,7 +12,8 @@ permalink: /publications/
 
 0. Tiziano Piccardi, Martin Gerlach, Akhil Arora, Robert West  
    *A Large-Scale Characterization of How Readers Browse Wikipedia*  
-   **ACM Transaction on the Web** (2022), forthcoming  
+   **ACM Transaction on the Web** (2023)
+   [[paper](https://dl.acm.org/doi/10.1145/3580318)]  
    [[arxiv](https://arxiv.org/abs/2112.11848)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Characterizing_Readers_Navigation/Characterizing_the_structure_of_navigation_pathways)]
 
@@ -262,6 +263,7 @@ permalink: /publications/
 
 I have reviewed for the following journals/conferences:
 
+* [ACM Computing Surveys](https://dl.acm.org/journal/csur)
 * [Artificial Life](https://www.mitpressjournals.org/loi/artl)
 * [Communications Physics](https://www.nature.com/commsphys/)
 * [Entropy](https://www.mdpi.com/journal/entropy)
@@ -289,7 +291,8 @@ I have reviewed for the following journals/conferences:
 * [Proceedings of the Royal Society B](http://rspb.royalsocietypublishing.org/)
 * [Royal Society Open Science](http://rsos.royalsocietypublishing.org/)
 * [Scientific Reports](https://www.nature.com/srep/)
-* [The Web Conference](https://www2022.thewebconf.org/the-web-conference/)
+* [WSDM (Internation Conference on Web Search and Data Mining)](https://www2022.thewebconf.org/the-web-conference/)
+* [WWW (The Web Conference)](https://www2022.thewebconf.org/the-web-conference/)
 * [WikiWorkshop](https://wikiworkshop.org/)
 
 I have been handling editor for [PNAS](https://www.pnas.org/)
@@ -297,6 +300,7 @@ I have been handling editor for [PNAS](https://www.pnas.org/)
 ---
 
 # Conferences & Seminars
+* [FOSDEM 23](https://fosdem.org/2023/). Online, 04/2023 [talk]
 * [Cavendish QI Seminars](https://www.qi.phy.cam.ac.uk/seminars/) hosted by the Cavendish QI Group and the Hitachi Cambridge Laboratory at the University of Cambridge. Online, 03/2022
    [**Invited talk**]
 * [Wikimania 2021](https://wikimania.wikimedia.org/wiki/Wikimania). Online, 08/2021
