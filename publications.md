@@ -244,6 +244,12 @@ permalink: /publications/
 
 #### Blogposts
 
+0. Martin Gerlach, Isaac Johnson, and Nazia Tasnim  
+   [*From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps*](https://techblog.wikimedia.org/2021/09/17/analyzing-the-wikipedia-clickstream-just-got-easier-with-wikinav/)  
+   **Wikimedia Tech-blog** (2021)  
+   [[tool](https://pypi.org/project/mwparserfromhtml/)]
+   [[code](https://gitlab.wikimedia.org/repos/research/html-dumps)]
+
 0. Muniza A., Isaac Johnson, and Martin Gerlach  
    [*Analyzing the Wikipedia clickstream just got easier with WikiNav*](https://techblog.wikimedia.org/2021/09/17/analyzing-the-wikipedia-clickstream-just-got-easier-with-wikinav/)  
    **Wikimedia Tech-blog** (2021)  
