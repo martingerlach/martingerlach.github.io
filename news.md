@@ -4,9 +4,15 @@ title: News
 permalink: /news/
 
 ---
+* **2023-07-15**: Two New papers accepted at *ICWSM*: [Curious Rhythms: Temporal Regularities of Wikipedia Consumption](https://arxiv.org/abs/2305.09497) with Tiziano Piccardi and Robert West; as well as [Orphan Articles: The Dark Matter of Wikipedia](https://arxiv.org/abs/2306.03940) with Akhil Arora and Robert West
+
 * **2023-06-07**: I will be giving an invited talk at the [Computational Social Science Seminar](https://cmb.huma-num.fr/css-seminar/) at the [Centre Marc Bloch](https://cmb.hu-berlin.de/) in Berlin.
 
 * **2023-05-19/20/21**: I will be participating in the [Wikimedia Hackathon](https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2023) taking place in Athens, Greece.
+
+* **2023-05-11**: I had the pleasure to serve as co-PC chair at [WikiWorkshop 2023](https://wikiworkshop.org/2023/) with Francesca Tripodi.
+
+* **2023-02-24**: New blogpost on *Wikimedia Techblog* [From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps](https://techblog.wikimedia.org/2023/02/24/from-hell-to-html/) with Nazia Tasnim and Isaac Johnson.
 
 * **2023-02-04**: I will be giving a talk at [FOSDEM 23](https://fosdem.org/2023/) about [Building open tools to support research on Wikimedia projects](https://fosdem.org/2023/schedule/event/openresearch_wikimedia/).
 
