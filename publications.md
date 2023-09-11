@@ -245,8 +245,8 @@ permalink: /publications/
 #### Blogposts
 
 0. Martin Gerlach, Isaac Johnson, and Nazia Tasnim  
-   [*From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps*](https://techblog.wikimedia.org/2021/09/17/analyzing-the-wikipedia-clickstream-just-got-easier-with-wikinav/)  
-   **Wikimedia Tech-blog** (2021)  
+   [*From hell to HTML: releasing a Python package to easily work with Wikimedia HTML dumps*](https://techblog.wikimedia.org/2023/02/24/from-hell-to-html/)  
+   **Wikimedia Tech-blog** (2023)  
    [[tool](https://pypi.org/project/mwparserfromhtml/)]
    [[code](https://gitlab.wikimedia.org/repos/research/html-dumps)]
 
@@ -284,6 +284,7 @@ I have reviewed for the following journals/conferences:
 * [ACM Computing Surveys](https://dl.acm.org/journal/csur)
 * [Artificial Life](https://www.mitpressjournals.org/loi/artl)
 * [Communications Physics](https://www.nature.com/commsphys/)
+* [CSCW (Computer-supported Cooperative Work and Social Computing)](https://cscw.acm.org)
 * [Entropy](https://www.mdpi.com/journal/entropy)
 * [European Physics Journal B (EPJB)](http://epjb.epj.org/)
 * [EPL (Europhysics Letters)](http://iopscience.iop.org/0295-5075)
@@ -318,7 +319,11 @@ I have been handling editor for [PNAS](https://www.pnas.org/)
 ---
 
 # Conferences & Seminars
-* [FOSDEM 23](https://fosdem.org/2023/). Online, 04/2023 [talk]
+* [Computational Social Science Seminar](https://cmb.huma-num.fr/css-seminar/) hosted by the Centre Marc Bloch. Berlin, 06/2023
+   [**Invited talk**]
+
+* [FOSDEM 23](https://fosdem.org/2023/). Online, 02/2023 [talk]
+
 * [Cavendish QI Seminars](https://www.qi.phy.cam.ac.uk/seminars/) hosted by the Cavendish QI Group and the Hitachi Cambridge Laboratory at the University of Cambridge. Online, 03/2022
    [**Invited talk**]
 * [Wikimania 2021](https://wikimania.wikimedia.org/wiki/Wikimania). Online, 08/2021
