@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 
 ---
-* **2023-07-15**: Two New papers accepted at *ICWSM*: [Curious Rhythms: Temporal Regularities of Wikipedia Consumption](https://arxiv.org/abs/2305.09497) with Tiziano Piccardi and Robert West; as well as [Orphan Articles: The Dark Matter of Wikipedia](https://arxiv.org/abs/2306.03940) with Akhil Arora and Robert West
+* **2023-07-15**: Two new papers accepted at *ICWSM*: [Curious Rhythms: Temporal Regularities of Wikipedia Consumption](https://arxiv.org/abs/2305.09497) with Tiziano Piccardi and Robert West; as well as [Orphan Articles: The Dark Matter of Wikipedia](https://arxiv.org/abs/2306.03940) with Akhil Arora and Robert West
 
 * **2023-06-07**: I will be giving an invited talk at the [Computational Social Science Seminar](https://cmb.huma-num.fr/css-seminar/) at the [Centre Marc Bloch](https://cmb.hu-berlin.de/) in Berlin.
 
@@ -22,7 +22,7 @@ permalink: /news/
 
 * **2022-03-25**: I will be giving an invited talk at the [Cavendish QI Seminars](https://www.qi.phy.cam.ac.uk/seminars/) at University of Cambridge hosted by the Cavendish Quantum Information Group and the Hitachi Cambridge Laboratory.
 
-* **2022-03-16**: The alumni magazine of Dresden University of Technology [published a portrait about me](https://tu-dresden.de/studium/nach-dem-studium/alumniportraets/globale-vision-alle-sollen-am-wissen-teilhaben) covering my career path and my current work at Wikimedia Foundation. It will appear as part of the [Spring Issue 2022](https://ea.newscpt.com/_ns.php?&nid=4794644&npw=d5f81d62d317e65d247d80c72) of [Kontakt-online](https://tu-dresden.de/studium/nach-dem-studium/absolventenmagazin).
+* **2022-03-16**: Dresden University of Technology [published a portrait about me](https://tu-dresden.de/studium/nach-dem-studium/alumniportraets/globale-vision-alle-sollen-am-wissen-teilhaben) as part of their [alumni of the month series](https://tu-dresden.de/studium/nach-dem-studium/alumniportraets).  
 
 * **2022-03-04**: New paper accepted at *WikiWorkshop 2022*. [Going Down the Rabbit Hole: Characterizing the Long Tail of Wikipedia Reading Sessions
 ](https://arxiv.org/abs/2203.06932)  with Tiziano Piccardi, and Robert West.
@@ -32,8 +32,6 @@ permalink: /news/
 * **2021-09-17**: New blogpost on *Wikimedia Techblog* [Analyzing the Wikipedia clickstream just got easier with WikiNav](https://techblog.wikimedia.org/2021/09/17/analyzing-the-wikipedia-clickstream-just-got-easier-with-wikinav/) with Muniza A. and Isaac Johnson .
 
 * **2021-09-09**: New blogpost on *Diff* [World Suicide Prevention Day and the opportunity to increase access to mental health information on Wikimedia projects](https://diff.wikimedia.org/2021/09/09/world-suicide-prevention-day-and-the-opportunity-to-increase-access-to-mental-health-information-on-wikimedia-projects/) with Cristina Butoiu and Leighanna Mixter.
-
-* **2021-08-09**: New paper accepted at *CIKM 2021*. [Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop Approach](https://www.cikm2021.org/accepted-papers/applied)  with Marshall Miller, Rita Ho, Kosta Harlan, and Djellel Difallah.
 
 * **2021-08-15** I attended [*Wikimania 2021*](https://wikimania.wikimedia.org/wiki/Wikimania) and talked about [Editing with machine learning: a case study on link recommendations](https://wikimania.wikimedia.org/wiki/2021:Submissions/Editing_with_machine_learning:_a_case_study_on_link_recommendations) and [Indicators for the Wikimedia Projects](https://wikimania.wikimedia.org/wiki/2021:Submissions/Indicators_for_the_Wikimedia_Projects).
 
