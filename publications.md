@@ -275,7 +275,7 @@ permalink: /publications/
 
 ---
 
-# Peer-review & Editorial activity
+# Academic service
 
 [[Publons-profile](https://publons.com/author/1216225/martin-gerlach#profile)]
 
@@ -315,6 +315,8 @@ I have reviewed for the following journals/conferences:
 * [WikiWorkshop](https://wikiworkshop.org/)
 
 I have been handling editor for [PNAS](https://www.pnas.org/)
+
+I have been co-organizer for [WikiWorkshop 2023](https://wikiworkshop.org/2023/)
 
 ---
 
