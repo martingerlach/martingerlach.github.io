@@ -9,6 +9,12 @@ permalink: /publications/
 [[Google scholar](http://scholar.google.de/citations?user=FQNob6MAAAAJ&hl=en&oi=sra)]  [[orcid](http://orcid.org/0000-0002-0879-7865)]
 
 #### Papers
+0. Dale Zhou, Shubhankar P. Patankar, David M. Lydon-Staley, Perry Zurn, Martin Gerlach\*, Dani S. Bassett\* (\* equal contribution)  
+   *Architectural styles of curiosity in global Wikipedia mobile app readership*  
+   **under review**  
+   [[arxiv](https://osf.io/preprints/psyarxiv/szuyj/)]
+   [[meta](https://meta.wikimedia.org/wiki/Research:Understanding_Curious_and_Critical_Readers)]
+
 0. Akhil Arora, Robert West, Martin Gerlach  
    *Orphan Articles: The Dark Matter of Wikipedia*  
    **ICWSM** (2024), to appear  
