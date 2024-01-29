@@ -4,6 +4,12 @@ title: News
 permalink: /news/
 
 ---
+* **2024-06-20**: I am happy to serve as co-PC chair for the research track at [WikiWorkshop 2024](https://wikiworkshop.org/2024/) with Pablo Beytía.
+
+* **2024-02-06**: I will be giving an invited talk at [EPFL](https://memento.epfl.ch/event/research-at-the-wikimedia-foundation-to-advance-kn/) hosted by the [Data Science Lab](https://dlab.epfl.ch/) in Lausanne.
+
+* **2023-11-02**: New preprint [Architectural styles of curiosity in global Wikipedia mobile app readership](https://osf.io/preprints/psyarxiv/szuyj) with Dale Zhou, Shubhankar P. Patankar, David M. Lydon-Staley, Perry Zurn, and Dani S. Bassett.
+
 * **2023-07-15**: Two new papers accepted at *ICWSM*: [Curious Rhythms: Temporal Regularities of Wikipedia Consumption](https://arxiv.org/abs/2305.09497) with Tiziano Piccardi and Robert West; as well as [Orphan Articles: The Dark Matter of Wikipedia](https://arxiv.org/abs/2306.03940) with Akhil Arora and Robert West
 
 * **2023-06-07**: I will be giving an invited talk at the [Computational Social Science Seminar](https://cmb.huma-num.fr/css-seminar/) at the [Centre Marc Bloch](https://cmb.hu-berlin.de/) in Berlin.

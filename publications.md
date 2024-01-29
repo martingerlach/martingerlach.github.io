@@ -322,11 +322,14 @@ I have reviewed for the following journals/conferences:
 
 I have been handling editor for [PNAS](https://www.pnas.org/)
 
-I have been co-organizer for [WikiWorkshop 2023](https://wikiworkshop.org/2023/)
+I have been co-organizer for [WikiWorkshop 2023](https://wikiworkshop.org/2023/) and [WikiWorkshop 2024](https://wikiworkshop.org/2024/)
 
 ---
 
 # Conferences & Seminars
+* [EPFL](https://memento.epfl.ch/event/research-at-the-wikimedia-foundation-to-advance-kn/) hosted by Data Science Lab. Lausanne, 02/2024
+   [**Invited talk**]
+
 * [Computational Social Science Seminar](https://cmb.huma-num.fr/css-seminar/) hosted by the Centre Marc Bloch. Berlin, 06/2023
    [**Invited talk**]
 
@@ -334,6 +337,7 @@ I have been co-organizer for [WikiWorkshop 2023](https://wikiworkshop.org/2023/)
 
 * [Cavendish QI Seminars](https://www.qi.phy.cam.ac.uk/seminars/) hosted by the Cavendish QI Group and the Hitachi Cambridge Laboratory at the University of Cambridge. Online, 03/2022
    [**Invited talk**]
+
 * [Wikimania 2021](https://wikimania.wikimedia.org/wiki/Wikimania). Online, 08/2021
    [lecture, workshop]
 
