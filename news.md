@@ -4,7 +4,15 @@ title: News
 permalink: /news/
 
 ---
+#### Upcoming
+
 * **2024-06-20**: I am happy to serve as co-PC chair for the research track at [WikiWorkshop 2024](https://wikiworkshop.org/2024/) with Pablo Beytía.
+
+* **2024-06-3/4/5/6**: I will be attending the [ICWSM 2024](https://icwsm.org/2024/index.html/) conference in Buffalo, New York (USA).
+
+* **2024-05-3/4/5**: I will be participating in the [Wikimedia Hackathon 2024](https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2024) taking place in Tallinn, Estonia.
+
+#### Past
 
 * **2024-02-06**: I will be giving an invited talk at [EPFL](https://memento.epfl.ch/event/research-at-the-wikimedia-foundation-to-advance-kn/) hosted by the [Data Science Lab](https://dlab.epfl.ch/) in Lausanne.
 
