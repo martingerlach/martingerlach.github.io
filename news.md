@@ -6,9 +6,11 @@ permalink: /news/
 ---
 #### Upcoming
 
-* **2024-06-20**: I am happy to serve as co-PC chair for the research track at [WikiWorkshop 2024](https://wikiworkshop.org/2024/) with Pablo Beytía.
+* **2024-06-20**: I will be attending [WikiWorkshop 2024](https://wikiworkshop.org/2024/) (online). I am co-organizing the [Research Track](https://wikiworkshop.org/call-for-papers/) as a Program Chair with Pablo Beytía from Catholic University of Chile.
 
-* **2024-06-3/4/5/6**: I will be attending the [ICWSM 2024](https://icwsm.org/2024/index.html/) conference in Buffalo, New York (USA).
+* **2024-06-8/9**: I will be attending the [Wikipedia Zukunftskongress 2024](https://de.wikipedia.org/wiki/Wikipedia:Wikimedia_Deutschland/Community-Portal/Beteiligung/Debattieren_und_analysieren/Zukunftskongress) in Nürnberg, Germany. I will be participating in a [panel](https://de.wikipedia.org/wiki/Wikipedia:Wikimedia_Deutschland/Community-Portal/Beteiligung/Debattieren_und_analysieren/Zukunftskongress/Programm#//_Panel_3:_Wohin_entwickelt_sich_die_Wikipedia-Community?) to discuss about the future of Wikipedia.
+
+* **2024-06-3/4/5/6**: I will be attending the [ICWSM 2024](https://icwsm.org/2024/index.html/) conference in Buffalo, New York (USA). I will be presenting two accepted papers ([Orphan articles](https://arxiv.org/abs/2306.03940) and [Curious rhythms](https://arxiv.org/abs/2305.09497) in Wikipedia) and co-orgamize a tutorial on [How to work with Wikimedia data for academic research](https://meta.wikimedia.org/wiki/Wikimedia_Data_Tutorial_ICWSM_2024).
 
 * **2024-05-3/4/5**: I will be participating in the [Wikimedia Hackathon 2024](https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2024) taking place in Tallinn, Estonia.
 
