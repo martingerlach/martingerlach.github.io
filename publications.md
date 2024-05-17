@@ -10,9 +10,9 @@ permalink: /publications/
 
 #### Papers
 
-0. Mykola Trokhymovych, Indira Sen, Martin Gerlach
-   *An Open Multilingual System for Scoring Readability of Wikipedia*
-   **ACL 2024**, to appear
+0. Mykola Trokhymovych, Indira Sen, Martin Gerlach  
+   *An Open Multilingual System for Scoring Readability of Wikipedia*  
+   **ACL 2024**, to appear  
    [[meta](https://meta.wikimedia.org/wiki/Research:Multilingual_Readability_Research)]
 
 0. Dale Zhou, Shubhankar P. Patankar, David M. Lydon-Staley, Perry Zurn, Martin Gerlach\*, Dani S. Bassett\* (\* equal contribution)  
@@ -27,7 +27,7 @@ permalink: /publications/
    [[arxiv](https://arxiv.org/abs/2306.03940)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Recommending_links_to_increase_visibility_of_articles)]
 
-   Media Coverage:
+   Media Coverage:  
       +[EPFL News](https://actu.epfl.ch/news/orphan-articles-the-dark-matter-of-wikipedia/)
 
 0. Tiziano Piccardi, Martin Gerlach, Robert West  
@@ -91,7 +91,7 @@ permalink: /publications/
 
 0. Ziyou Ren, Martin Gerlach, Hanyu Shi, GR Scott Budinger, Luis A.N. Amaral  
    *Information-theory-based benchmarking and feature selection algorithm improve cell type annotation and reproducibility of single cell RNA-seq data analysis pipelines*  
-   **unpublished**  (2020)
+   **unpublished** (2020)  
    [[biorxiv](https://www.biorxiv.org/content/10.1101/2020.11.02.365510v3.abstract)]
    [[code](https://github.com/amarallab/Benchmark_scRNA_seq)]
 
