@@ -23,7 +23,7 @@ permalink: /publications/
 
 0. Akhil Arora, Robert West, Martin Gerlach  
    *Orphan Articles: The Dark Matter of Wikipedia*  
-   **ICWSM 2024**, [to appear](https://www.icwsm.org/2024/index.html/accepted_papers.html  
+   **ICWSM 2024**, [to appear](https://www.icwsm.org/2024/index.html/accepted_papers.html)  
    [[arxiv](https://arxiv.org/abs/2306.03940)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Recommending_links_to_increase_visibility_of_articles)]
 
