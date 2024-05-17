@@ -9,6 +9,12 @@ permalink: /publications/
 [[Google scholar](http://scholar.google.de/citations?user=FQNob6MAAAAJ&hl=en&oi=sra)]  [[orcid](http://orcid.org/0000-0002-0879-7865)]
 
 #### Papers
+
+0. Mykola Trokhymovych, Indira Sen, Martin Gerlach
+   *An Open Multilingual System for Scoring Readability of Wikipedia*
+   **ACL 2024**, to appear
+   [[meta](https://meta.wikimedia.org/wiki/Research:Multilingual_Readability_Research)]
+
 0. Dale Zhou, Shubhankar P. Patankar, David M. Lydon-Staley, Perry Zurn, Martin Gerlach\*, Dani S. Bassett\* (\* equal contribution)  
    *Architectural styles of curiosity in global Wikipedia mobile app readership*  
    **under review**  
@@ -17,13 +23,16 @@ permalink: /publications/
 
 0. Akhil Arora, Robert West, Martin Gerlach  
    *Orphan Articles: The Dark Matter of Wikipedia*  
-   **ICWSM** (2024), to appear  
+   **ICWSM 2024**, [to appear](https://www.icwsm.org/2024/index.html/accepted_papers.html)
    [[arxiv](https://arxiv.org/abs/2306.03940)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Recommending_links_to_increase_visibility_of_articles)]
 
+   Media Coverage:
+      +[EPFL News](https://actu.epfl.ch/news/orphan-articles-the-dark-matter-of-wikipedia/)
+
 0. Tiziano Piccardi, Martin Gerlach, Robert West  
    *Curious Rhythms: Temporal Regularities of Wikipedia Consumption*  
-   **ICWSM** (2024), to appear  
+   **ICWSM 2024**, [to appear](https://www.icwsm.org/2024/index.html/accepted_papers.html)
    [[arxiv](https://arxiv.org/abs/2305.09497)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Characterizing_Readers_Navigation/Temporal_Rhythms)]
 
@@ -34,7 +43,7 @@ permalink: /publications/
    [[arxiv](https://arxiv.org/abs/2112.11848)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Characterizing_Readers_Navigation/Characterizing_the_structure_of_navigation_pathways)]
 
- 0. Tiziano Piccardi, Martin Gerlach, Robert West  
+0. Tiziano Piccardi, Martin Gerlach, Robert West
     *Going Down the Rabbit Hole: Characterizing the Long Tail of Wikipedia Reading Sessions*  
     **WikiWorkshop 2022**, Companion Proceedings of The Web Conference 2022 (WWW '22).  
     [[paper](https://dl.acm.org/doi/10.1145/3487553.3524930)]
@@ -82,7 +91,7 @@ permalink: /publications/
 
 0. Ziyou Ren, Martin Gerlach, Hanyu Shi, GR Scott Budinger, Luis A.N. Amaral  
    *Information-theory-based benchmarking and feature selection algorithm improve cell type annotation and reproducibility of single cell RNA-seq data analysis pipelines*  
-   **under review**  
+   **unpublished**
    [[biorxiv](https://www.biorxiv.org/content/10.1101/2020.11.02.365510v3.abstract)]
    [[code](https://github.com/amarallab/Benchmark_scRNA_seq)]
 
