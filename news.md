@@ -12,9 +12,10 @@ permalink: /news/
 
 * **2024-06-3/4/5/6**: I will be attending the [ICWSM 2024](https://icwsm.org/2024/index.html/) conference in Buffalo, New York (USA). I will be presenting two accepted papers ([Orphan articles](https://arxiv.org/abs/2306.03940) and [Curious rhythms](https://arxiv.org/abs/2305.09497) in Wikipedia) and co-orgamize a tutorial on [How to work with Wikimedia data for academic research](https://meta.wikimedia.org/wiki/Wikimedia_Data_Tutorial_ICWSM_2024).
 
+#### Past
+
 * **2024-05-3/4/5**: I will be participating in the [Wikimedia Hackathon 2024](https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2024) taking place in Tallinn, Estonia.
 
-#### Past
 
 * **2024-02-06**: I will be giving an invited talk at [EPFL](https://memento.epfl.ch/event/research-at-the-wikimedia-foundation-to-advance-kn/) hosted by the [Data Science Lab](https://dlab.epfl.ch/) in Lausanne.
 
