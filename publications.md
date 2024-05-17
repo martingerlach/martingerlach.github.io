@@ -91,7 +91,7 @@ permalink: /publications/
 
 0. Ziyou Ren, Martin Gerlach, Hanyu Shi, GR Scott Budinger, Luis A.N. Amaral  
    *Information-theory-based benchmarking and feature selection algorithm improve cell type annotation and reproducibility of single cell RNA-seq data analysis pipelines*  
-   **unpublished**
+   **unpublished**  (2020)
    [[biorxiv](https://www.biorxiv.org/content/10.1101/2020.11.02.365510v3.abstract)]
    [[code](https://github.com/amarallab/Benchmark_scRNA_seq)]
 
