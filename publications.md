@@ -28,7 +28,8 @@ permalink: /publications/
    [[meta](https://meta.wikimedia.org/wiki/Research:Recommending_links_to_increase_visibility_of_articles)]
 
    Media Coverage:  
-      +[EPFL News](https://actu.epfl.ch/news/orphan-articles-the-dark-matter-of-wikipedia/)
+      +[EPFL News](https://actu.epfl.ch/news/orphan-articles-the-dark-matter-of-wikipedia/)  
+      +[Radio Télévision Suisse](https://www.rts.ch/audio-podcast/2024/audio/comment-ameliorer-la-visibilite-des-articles-orphelins-de-wikipedia-28508872.html) (French)
 
 0. Tiziano Piccardi, Martin Gerlach, Robert West  
    *Curious Rhythms: Temporal Regularities of Wikipedia Consumption*  
