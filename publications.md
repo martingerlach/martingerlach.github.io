@@ -13,6 +13,7 @@ permalink: /publications/
 0. Mykola Trokhymovych, Indira Sen, Martin Gerlach  
    *An Open Multilingual System for Scoring Readability of Wikipedia*  
    **ACL 2024**, to appear  
+   [[arxiv](https://arxiv.org/abs/2406.01835v1)]
    [[meta](https://meta.wikimedia.org/wiki/Research:Multilingual_Readability_Research)]
 
 0. Dale Zhou, Shubhankar P. Patankar, David M. Lydon-Staley, Perry Zurn, Martin Gerlach\*, Dani S. Bassett\* (\* equal contribution)  
