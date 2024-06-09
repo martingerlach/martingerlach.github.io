@@ -31,7 +31,9 @@ permalink: /publications/
 
    Media Coverage:  
       +[EPFL News](https://actu.epfl.ch/news/orphan-articles-the-dark-matter-of-wikipedia/)  
-      +[Radio Télévision Suisse](https://www.rts.ch/audio-podcast/2024/audio/comment-ameliorer-la-visibilite-des-articles-orphelins-de-wikipedia-28508872.html) (French)
+      +[Radio Télévision Suisse](https://www.rts.ch/audio-podcast/2024/audio/comment-ameliorer-la-visibilite-des-articles-orphelins-de-wikipedia-28508872.html) (French)  
+      +[The Signpost](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2024-06-08/In_the_media#In_brief)  
+      +[Tech Xplore](https://techxplore.com/news/2024-05-orphan-articles-dark-wikipedia.html)
 
 0. Tiziano Piccardi, Martin Gerlach, Robert West  
    *Curious Rhythms: Temporal Regularities of Wikipedia Consumption*  
@@ -340,6 +342,12 @@ I have been co-organizer for [WikiWorkshop 2023](https://wikiworkshop.org/2023/)
 ---
 
 # Conferences & Seminars
+* [Wikipedia Zukunftskongress 2024](https://www.wikimedia.de/zukunftskongress/), Nürnberg, Germany. 06/2024
+   [**Invited panel**]
+
+* [ICWSM 2024](https://meta.wikimedia.org/wiki/Wikimedia_Data_Tutorial_ICWSM_2024), Buffalo, NY. 06/2024
+   [Tutorial]
+
 * [EPFL](https://memento.epfl.ch/event/research-at-the-wikimedia-foundation-to-advance-kn/) hosted by Data Science Lab. Lausanne, 02/2024
    [**Invited talk**]
 
