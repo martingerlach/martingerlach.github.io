@@ -14,6 +14,8 @@ permalink: /news/
 
 * **2024-06-3/4/5/6**: I will be attending the [ICWSM 2024](https://icwsm.org/2024/index.html/) conference in Buffalo, New York (USA). I will be presenting two accepted papers ([Orphan articles](https://arxiv.org/abs/2306.03940) and [Curious rhythms](https://arxiv.org/abs/2305.09497) in Wikipedia) and co-orgamize a tutorial on [How to work with Wikimedia data for academic research](https://meta.wikimedia.org/wiki/Wikimedia_Data_Tutorial_ICWSM_2024).
 
+* **2024-05-16**: New paper accepted at [*ACL 2024*](https://2024.aclweb.org/) (main conference): [An Open Multilingual System for Scoring Readability of Wikipedia](https://arxiv.org/abs/2406.01835v1) with Mykola Trokhymovych and Indira Sen.
+
 * **2024-05-3/4/5**: I will be participating in the [Wikimedia Hackathon 2024](https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2024) taking place in Tallinn, Estonia.
 
 
