@@ -6,9 +6,9 @@ permalink: /news/
 ---
 #### Upcoming
 
-* **2024-06-20**: I will be attending [WikiWorkshop 2024](https://wikiworkshop.org/2024/) (online). I am co-organizing the [Research Track](https://wikiworkshop.org/call-for-papers/) as a Program Chair with Pablo Beytía from Catholic University of Chile.
-
 #### Past
+
+* **2024-06-20**: I will be attending [WikiWorkshop 2024](https://wikiworkshop.org/2024/) (online). I am co-organizing the [Research Track](https://wikiworkshop.org/call-for-papers/) as a Program Chair with Pablo Beytía from Catholic University of Chile.
 
 * **2024-06-8/9**: I will be attending the [Wikipedia Zukunftskongress 2024](https://de.wikipedia.org/wiki/Wikipedia:Wikimedia_Deutschland/Community-Portal/Beteiligung/Debattieren_und_analysieren/Zukunftskongress) in Nürnberg, Germany. I will be participating in a [panel](https://www.wikimedia.de/zukunftskongress/programm/samstag-08-juni-2024/) to discuss about the future of Wikipedia.
 
