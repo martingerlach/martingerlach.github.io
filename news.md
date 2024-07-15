@@ -5,6 +5,8 @@ permalink: /news/
 
 ---
 #### Upcoming
+* **2024-08-11--16**: I will be attending the [ACL 2024](https://2024.aclweb.org/) conference in Bangkok, Thailand. I will be co-presenting our paper on ([readability in Wikipedia](https://arxiv.org/abs/2406.01835v1) which was [accepted for the main track](https://2024.aclweb.org/program/main_conference_papers/).
+
 
 #### Past
 
