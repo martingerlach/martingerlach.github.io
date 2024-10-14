@@ -10,26 +10,30 @@ permalink: /publications/
 
 #### Papers
 
-0. Mykola Trokhymovych, Indira Sen, Martin Gerlach  
-   *An Open Multilingual System for Scoring Readability of Wikipedia*  
-   **ACL 2024**, [to appear](https://2024.aclweb.org/program/main_conference_papers/)  
-   [[arxiv](https://arxiv.org/abs/2406.01835v1)]
-   [[code](https://gitlab.wikimedia.org/repos/research/readability-experiments)]
-   [[data](https://zenodo.org/records/11371932)]
-   [[meta](https://meta.wikimedia.org/wiki/Research:Multilingual_Readability_Research)]
 
 0. Dale Zhou, Shubhankar P. Patankar, David M. Lydon-Staley, Perry Zurn, Martin Gerlach\*, Dani S. Bassett\* (\* equal contribution)  
    *Architectural styles of curiosity in global Wikipedia mobile app readership*  
-   **under review**  
+   **Science Advances**, in press    
    [[arxiv](https://osf.io/preprints/psyarxiv/szuyj/)]
-   [[meta](https://meta.wikimedia.org/wiki/Research:Understanding_Curious_and_Critical_Readers)]
+
+0. Tomás Feith, Akhil Arora, Martin Gerlach, Debjit Paul, Robert West  
+  *Entity Insertion in Multilingual Linked Corpora: The Case of Wikipedia*  
+  **EMNLP 2024**, [accepted](https://2024.emnlp.org/program/accepted_main_conference/) (main track)  
+  [[arxiv](https://arxiv.org/abs/2410.04254)]
+
+0. Mykola Trokhymovych, Indira Sen, Martin Gerlach  
+   *An Open Multilingual System for Scoring Readability of Wikipedia*  
+   **ACL 2024**  
+   [[paper](https://aclanthology.org/2024.acl-long.342/)]
+   [[arxiv](https://arxiv.org/abs/2406.01835)]
+   [[code](https://gitlab.wikimedia.org/repos/research/readability-experiments)]
+   [[data](https://zenodo.org/records/11371932)]
 
 0. Akhil Arora, Robert West, Martin Gerlach  
    *Orphan Articles: The Dark Matter of Wikipedia*  
    **ICWSM 2024**  
    [[paper](https://ojs.aaai.org/index.php/ICWSM/article/view/31300)]
    [[arxiv](https://arxiv.org/abs/2306.03940)]
-   [[meta](https://meta.wikimedia.org/wiki/Research:Recommending_links_to_increase_visibility_of_articles)]
 
    Media Coverage:  
       +[EPFL News](https://actu.epfl.ch/news/orphan-articles-the-dark-matter-of-wikipedia/)  
@@ -42,14 +46,12 @@ permalink: /publications/
    **ICWSM 2024**  
    [[paper](https://ojs.aaai.org/index.php/ICWSM/article/view/31386)]
    [[arxiv](https://arxiv.org/abs/2305.09497)]
-   [[meta](https://meta.wikimedia.org/wiki/Research:Characterizing_Readers_Navigation/Temporal_Rhythms)]
 
 0. Tiziano Piccardi, Martin Gerlach, Akhil Arora, Robert West  
    *A Large-Scale Characterization of How Readers Browse Wikipedia*  
    **ACM Transaction on the Web** (2023)  
    [[paper](https://dl.acm.org/doi/10.1145/3580318)]
    [[arxiv](https://arxiv.org/abs/2112.11848)]
-   [[meta](https://meta.wikimedia.org/wiki/Research:Characterizing_Readers_Navigation/Characterizing_the_structure_of_navigation_pathways)]
 
 0. Tiziano Piccardi, Martin Gerlach, Robert West
     *Going Down the Rabbit Hole: Characterizing the Long Tail of Wikipedia Reading Sessions*  
@@ -63,7 +65,6 @@ permalink: /publications/
    [[paper](https://dl.acm.org/doi/10.1145/3488560.3498496)]
    [[arxiv](https://arxiv.org/abs/2201.00812)]
    [[code](https://github.com/epfl-dlab/wikinav-approx)]
-   [[meta](https://meta.wikimedia.org/wiki/Research:Characterizing_Readers_Navigation/Comparing-webrequest-logs-and-clickstream-data)]
 
 0. Martin Gerlach, Marshall Miller, Rita Ho, Kosta Harlan, Djellel Difallah  
   *A Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop Approach*  
@@ -71,7 +72,6 @@ permalink: /publications/
    [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3481939)]
    [[arxiv](https://arxiv.org/abs/2105.15110)]
    [[code](https://github.com/wikimedia/research-mwaddlink)]
-   [[meta](https://meta.wikimedia.org/wiki/Research:Link_recommendation_model_for_add-a-link_structured_task)]
    [[tool](https://www.mediawiki.org/wiki/Growth/Personalized_first_day/Structured_tasks/Add_a_link)]
 
 0. Charles C. Hyland, Yuanming Tao, Lamiae Azizi, Martin Gerlach, Tiago P. Peixoto, Eduardo G. Altmann  
@@ -88,14 +88,12 @@ permalink: /publications/
     [[arxiv](https://arxiv.org/abs/2103.00068)]
     [[code](https://github.com/geohci/wikipedia-language-agnostic-topic-classification)]
     [[data](https://figshare.com/articles/dataset/Wikipedia_Article_Topics_for_All_Languages_based_on_article_outlinks_/12619766)]
-    [[meta](https://meta.wikimedia.org/wiki/Research:Language-Agnostic_Topic_Classification)]
 
 
 0. Miriam Redi, Martin Gerlach, Isaac Johnson, Jonathan Morgan, Leila Zia  
    *A Taxonomy of Knowledge Gaps for Wikimedia Projects (Second Draft)*  
    **unpublished**  
    [[arxiv](https://arxiv.org/abs/2008.12314)]
-   [[meta](https://meta.wikimedia.org/wiki/Research:Knowledge_Gaps_Index/Taxonomy)]
 
 0. Ziyou Ren, Martin Gerlach, Hanyu Shi, GR Scott Budinger, Luis A.N. Amaral  
    *Information-theory-based benchmarking and feature selection algorithm improve cell type annotation and reproducibility of single cell RNA-seq data analysis pipelines*  
