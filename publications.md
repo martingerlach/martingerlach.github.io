@@ -20,6 +20,7 @@ permalink: /publications/
   *Entity Insertion in Multilingual Linked Corpora: The Case of Wikipedia*  
   **EMNLP 2024**, [accepted](https://2024.emnlp.org/program/accepted_main_conference/) (main track)  
   [[arxiv](https://arxiv.org/abs/2410.04254)]
+  [[code](https://github.com/epfl-dlab/multilingual-entity-insertion)]
 
 0. Mykola Trokhymovych, Indira Sen, Martin Gerlach  
    *An Open Multilingual System for Scoring Readability of Wikipedia*  
@@ -28,6 +29,7 @@ permalink: /publications/
    [[arxiv](https://arxiv.org/abs/2406.01835)]
    [[code](https://gitlab.wikimedia.org/repos/research/readability-experiments)]
    [[data](https://zenodo.org/records/11371932)]
+   [[tool](https://readability.toolforge.org/)]
 
 0. Akhil Arora, Robert West, Martin Gerlach  
    *Orphan Articles: The Dark Matter of Wikipedia*  
