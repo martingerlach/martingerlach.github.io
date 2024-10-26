@@ -4,11 +4,10 @@ title: News
 permalink: /news/
 
 ---
-#### Recent/Upcoming
+
+* **2024-10-26**: New paper accepted at *Science Advances*: [Architectural styles of curiosity in global Wikipedia mobile app readership](https://www.science.org/doi/10.1126/sciadv.adn3268) with Dale Zhou, Shubhankar P. Patankar, David M. Lydon-Staley, Perry Zurn, and Dani S. Bassett.
 
 * **2024-09-20**: New paper accepted at [*EMNLP 2024*](https://2024.emnlp.org/program/accepted_main_conference/) (main conference): [Entity Insertion in Multilingual Linked Corpora: The Case of Wikipedia](https://arxiv.org/abs/2410.04254) with Tomás Feith, Akhil Arora, Debjit Paul, and Robert West.
-
-#### Past
 
 * **2024-08-11--16**: I will be attending the [ACL 2024](https://2024.aclweb.org/) conference in Bangkok, Thailand. I will be co-presenting [our paper on readability in Wikipedia](https://arxiv.org/abs/2406.01835) which was [accepted for the main track](https://2024.aclweb.org/program/main_conference_papers/).
 
