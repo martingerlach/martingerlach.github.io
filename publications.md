@@ -19,7 +19,8 @@ permalink: /publications/
    [[code](https://zenodo.org/records/13922132)]
 
    Media Coverage:  
-      +[Nature News](https://www.nature.com/articles/d41586-024-03454-7)
+      +[Nature News](https://www.nature.com/articles/d41586-024-03454-7)  
+      +[phys.org](https://phys.org/news/2024-10-dancer-curiosity-style-wikipedia-browsing.html)
 
 0. Tomás Feith, Akhil Arora, Martin Gerlach, Debjit Paul, Robert West  
   *Entity Insertion in Multilingual Linked Corpora: The Case of Wikipedia*  
