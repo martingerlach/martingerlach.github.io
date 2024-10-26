@@ -18,6 +18,9 @@ permalink: /publications/
    [[arxiv](https://osf.io/preprints/psyarxiv/szuyj/)]
    [[code](https://zenodo.org/records/13922132)]
 
+   Media Coverage:  
+      +[Nature News](https://www.nature.com/articles/d41586-024-03454-7)
+
 0. Tomás Feith, Akhil Arora, Martin Gerlach, Debjit Paul, Robert West  
   *Entity Insertion in Multilingual Linked Corpora: The Case of Wikipedia*  
   **EMNLP 2024**, [accepted](https://2024.emnlp.org/program/accepted_main_conference/) (main track)  
