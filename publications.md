@@ -14,8 +14,9 @@ permalink: /publications/
 0. Dale Zhou, Shubhankar P. Patankar, David M. Lydon-Staley, Perry Zurn, Martin Gerlach\*, Dani S. Bassett\* (\* equal contribution)  
    *Architectural styles of curiosity in global Wikipedia mobile app readership*  
    **Science Advances** (2024)  
-   [[arxiv](https://osf.io/preprints/psyarxiv/szuyj/)]
    [[paper](https://www.science.org/doi/10.1126/sciadv.adn3268)]
+   [[arxiv](https://osf.io/preprints/psyarxiv/szuyj/)]
+   [[code](https://zenodo.org/records/13922132)]
 
 0. Tomás Feith, Akhil Arora, Martin Gerlach, Debjit Paul, Robert West  
   *Entity Insertion in Multilingual Linked Corpora: The Case of Wikipedia*  
