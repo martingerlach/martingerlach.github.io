@@ -20,6 +20,8 @@ permalink: /publications/
 
    Media Coverage:  
       +[Nature News](https://www.nature.com/articles/d41586-024-03454-7)  
+      +[Nature Briefing](https://www.nature.com/articles/d41586-024-03537-5)  
+      +[The Conversation](https://theconversation.com/going-down-a-wikipedia-rabbit-hole-science-says-youre-one-of-these-three-types-242018)  
       +[phys.org](https://phys.org/news/2024-10-dancer-curiosity-style-wikipedia-browsing.html)
 
 0. Tomás Feith, Akhil Arora, Martin Gerlach, Debjit Paul, Robert West  
