@@ -234,9 +234,8 @@ permalink: /publications/
 
    Media Coverage:  
        + [APS Focus](http://physics.aps.org/articles/v9/41) by Philip Ball  
-       + [Physics Today](http://scitation.aip.org/content/aip/magazine/physicstoday/news/10.1063/PT.5.7257)  
-       + [Ria Novotny (Russian)](http://m.ria.ru/science/20160418/1414017867.html)
-
+       + [Physics Today](http://scitation.aip.org/content/aip/magazine/physicstoday/news/10.1063/PT.5.7257)
+   
 0. Eduardo G. Altmann, Martin Gerlach  
    *Statistical laws in linguistics*  
    In **Creativity and Universality in Language** (Springer, 2016)  
