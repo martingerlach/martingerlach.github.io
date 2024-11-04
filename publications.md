@@ -258,7 +258,7 @@ permalink: /publications/
    [[data&code](http://dx.doi.org/10.6084/m9.figshare.1172265)]
 
    Media Coverage:  
-       + [Spiegel Online (German)](http://spon.de/aelV3)
+       + [Spiegel Online (German)](https://www.spiegel.de/wissenschaft/mensch/rechtschreibreform-rechenmodell-erklaert-akzeptanz-von-neuerungen-a-998565.html)
 
 0. Martin Gerlach, Eduardo G. Altmann  
    *Stochastic Model for the Vocabulary Growth in Natural Languages*  
