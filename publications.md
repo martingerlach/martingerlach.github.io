@@ -20,10 +20,12 @@ permalink: /publications/
 
    Media Coverage:  
       +[Nature News](https://www.nature.com/articles/d41586-024-03454-7)  
-      +[Nature Briefing](https://www.nature.com/articles/d41586-024-03537-5)  
-      +[Science Podcast](https://www.science.org/content/podcast/challenges-studying-misinformation-and-what-wikipedia-can-tell-us-about-human-curiosity)  
+      +[Nature Daily Briefing](https://www.nature.com/articles/d41586-024-03537-5)  
+      +[Science Magazine Podcast](https://www.science.org/content/podcast/challenges-studying-misinformation-and-what-wikipedia-can-tell-us-about-human-curiosity)  
       +[The Conversation](https://theconversation.com/going-down-a-wikipedia-rabbit-hole-science-says-youre-one-of-these-three-types-242018)  
       +[phys.org](https://phys.org/news/2024-10-dancer-curiosity-style-wikipedia-browsing.html)  
+      +[Die Zeit](https://www.zeit.de/2024/47/neugier-datensatz-wikipedia-muster-forschung) (German)  
+      +[Frankfurter Allgemeine Zeitung](https://www.faz.net/aktuell/wissen/geist-soziales/psychologie-drei-archetypen-der-neugier-welcher-sind-sie-110075774.html) (German)  
       +[Spektrum.de](https://www.spektrum.de/news/es-gibt-drei-verschiedene-typen-bei-der-wikipedia-nutzung/2240296) (German)
 
 0. Tomás Feith, Akhil Arora, Martin Gerlach, Debjit Paul, Robert West  
