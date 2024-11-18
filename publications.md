@@ -30,7 +30,8 @@ permalink: /publications/
 
 0. Tomás Feith, Akhil Arora, Martin Gerlach, Debjit Paul, Robert West  
   *Entity Insertion in Multilingual Linked Corpora: The Case of Wikipedia*  
-  **EMNLP 2024**, [accepted](https://2024.emnlp.org/program/accepted_main_conference/) (main track)  
+  **EMNLP 2024**  
+  [[paper](https://aclanthology.org/2024.emnlp-main.1268/)]
   [[arxiv](https://arxiv.org/abs/2410.04254)]
   [[code](https://github.com/epfl-dlab/multilingual-entity-insertion)]
 
@@ -343,6 +344,7 @@ I have reviewed for the following journals/conferences:
 * [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)
 * [Proceedings of the Royal Society B](http://rspb.royalsocietypublishing.org/)
 * [Royal Society Open Science](http://rsos.royalsocietypublishing.org/)
+* [Science Advances](https://www.science.org/journal/sciadv)
 * [Scientific Reports](https://www.nature.com/srep/)
 * [WSDM (Internation Conference on Web Search and Data Mining)](https://www2022.thewebconf.org/the-web-conference/)
 * [WWW (The Web Conference)](https://www2022.thewebconf.org/the-web-conference/)
