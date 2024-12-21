@@ -1,9 +1,92 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+# journals
+"EPJDataSci":
+  url: https://epjdatascience.springeropen.com/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Entropy":
+  url: https://www.mdpi.com/journal/entropy
+  color: "#00369f"
 
-"Vision":
+"JPhysB":
+  url: https://iopscience.iop.org/journal/0953-4075
+  color: "#00369f"
+
+"JRSocInterface":
+  url: https://royalsocietypublishing.org/journal/rsif
+  color: "#00369f"
+
+"JStatMech":
+  url: https://iopscience.iop.org/journal/1742-5468
+  color: "#00369f"
+
+"NatHumBeh":
+  url: https://www.nature.com/nathumbehav/
+  color: "#00369f"
+
+"NatMachIntell":
+  url: https://www.nature.com/natmachintell/
+  color: "#00369f"
+
+"NewJPhys":
+  url: https://iopscience.iop.org/journal/1367-2630
+  color: "#00369f"
+
+"PLOSBiol":
+  url: https://journals.plos.org/plosbiology/
+  color: "#00369f"
+
+"PRL":
+  url: https://journals.aps.org/prl/
+  color: "#00369f"
+
+"PRX":
+  url: https://journals.aps.org/prx/
+  color: "#00369f"
+
+"RSocOpenSci":
+  url: https://royalsociety.org/journals/
+  color: "#00369f"
+
+"SciAdv":
+  url: https://www.science.org/journal/sciadv
+  color: "#00369f"
+
+"TWEB":
+  url: https://dl.acm.org/journal/tweb
+  color: "#00369f"
+
+
+
+# conferences
+"ACL":
+  url: https://aclanthology.org/venues/acl/
+
+"AISTATS":
+  url: https://aistats.org/
+
+"CIKM":
+  url: http://www.cikmconference.org/
+
+"EMNLP":
+  url: https://aclanthology.org/venues/emnlp/
+
+"ICWSM":
+  url: https://icwsm.org/
+
+"WSDM":
+  url: https://www.wsdm-conference.org/
+
+"WWW":
+  url: https://www.sigweb.org/conferences/acm-sigweb-conferences/the-web-conference
+
+# Preprint
+"Preprint":
+  color: "#d7ccc1"
+
+# Thesis
+"Thesis":
+  color: "#009f36"
+
+# Book Chapter
+"BookChapter":
   color: "#009f36"
