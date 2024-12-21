@@ -20,5 +20,5 @@ My research focuses on [Knowledge Gaps](https://research.wikimedia.org/knowledge
 Specifically, I work towards understanding and addressing the barriers & inequalities in Wikimedia projects using methods from AI/ML, NLP, Computational Social Science, and Complex Networks. 
 You can find more details about my ongoing work on my [user page](https://meta.wikimedia.org/wiki/User:MGerlach_(WMF)).
 
-My original background is in theoretical physics: I studyied at Dresden University of Technology and obtained my PhD at the Max Planck Insitute for the Physics of Complex Systems (with [Eduardo Altmann](http://www.maths.usyd.edu.au/u/ega/)). 
+My original background is in theoretical physics: I studyied at Dresden University of Technology and completed my PhD at the Max Planck Insitute for the Physics of Complex Systems (with [Eduardo Altmann](http://www.maths.usyd.edu.au/u/ega/)). 
 After that I was a Postdoctoral Fellow at Northwestern University in Evanston, IL (with [Luis Amaral](https://amaral.northwestern.edu/)).
