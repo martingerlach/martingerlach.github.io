@@ -7,6 +7,9 @@ nav: true
 nav_order: 4
 ---
 
+**Scientific American**  
+Gary Stix. [Wikipedia Searches Reveal Differing Styles of Curiosity](https://www.scientificamerican.com/article/wikipedia-searches-reveal-differing-styles-of-curiosity/) (2024)
+
 **Nature News**  
 Helena Kudiabor. [Study reveals three ways to disappear down a Wikipedia rabbit hole](https://www.nature.com/articles/d41586-024-03454-7) (2024)
 
